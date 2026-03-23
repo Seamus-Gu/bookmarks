@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :551: for Floccus bookmark sync browser extension -->
+<!--- highestId :559: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -17,6 +17,30 @@
       </bookmark>
       <bookmark href="https://owa.ctil.com/owa/#path=/mail" id="309">
         <title>邮件 - Seamus_Gu@sz.ctil.com</title>
+      </bookmark>
+    </folder>
+    <folder id="552">
+      <title>Tools</title>
+      <bookmark href="http://172.16.2.11:10980/ui/#/profile/info" id="553">
+        <title>JumpServer 开源堡垒机</title>
+      </bookmark>
+      <bookmark href="https://jmshk.pi-hcm.com/core/auth/login/" id="554">
+        <title>JumpServer 开源堡垒机</title>
+      </bookmark>
+      <bookmark href="https://jumpserver.where25.cn/luna/?_=1773115462922" id="555">
+        <title>Web终端 - JumpServer 开源堡垒机</title>
+      </bookmark>
+      <bookmark href="https://ctil.atlassian.net/jira/for-you" id="556">
+        <title>Jira</title>
+      </bookmark>
+      <bookmark href="https://docs.pihcm.tech/" id="557">
+        <title>Docs</title>
+      </bookmark>
+      <bookmark href="https://gitlab.pi-hcm.com/" id="558">
+        <title>GitLab</title>
+      </bookmark>
+      <bookmark href="https://harbor.pi-hcm.com/" id="559">
+        <title>Harbor</title>
       </bookmark>
     </folder>
   </folder>
