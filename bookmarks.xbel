@@ -7,6 +7,18 @@
   <title>Bookmarks Bar</title>
   <folder id="550">
     <title>Work</title>
+    <folder id="141">
+      <title>Self</title>
+      <bookmark href="https://wfm.platinumchina.com/workforce-web/" id="307">
+        <title>WFM加班请假系统</title>
+      </bookmark>
+      <bookmark href="https://hris-prc.ctil.com/HRIS.NET.Platform.UI/Pages/Homepage.aspx" id="308">
+        <title>HRMS.NET</title>
+      </bookmark>
+      <bookmark href="https://owa.ctil.com/owa/#path=/mail" id="309">
+        <title>邮件 - Seamus_Gu@sz.ctil.com</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="551">
     <title>Tools</title>
@@ -98,18 +110,6 @@
       <title>Develop</title>
       <bookmark href="http://127.0.0.1:15672/#/" id="305">
         <title>RabbitMQ</title>
-      </bookmark>
-    </folder>
-    <folder id="141">
-      <title>Self</title>
-      <bookmark href="https://wfm.platinumchina.com/workforce-web/" id="307">
-        <title>WFM加班请假系统</title>
-      </bookmark>
-      <bookmark href="https://hris-prc.ctil.com/HRIS.NET.Platform.UI/Pages/Homepage.aspx" id="308">
-        <title>HRMS.NET</title>
-      </bookmark>
-      <bookmark href="https://owa.ctil.com/owa/#path=/mail" id="309">
-        <title>邮件 - Seamus_Gu@sz.ctil.com</title>
       </bookmark>
     </folder>
     <folder id="142">
