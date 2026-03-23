@@ -79,6 +79,21 @@
         <title>ruoyi</title>
       </bookmark>
     </folder>
+    <folder id="149">
+      <title>Icons</title>
+      <bookmark href="https://www.iconfont.cn/" id="331">
+        <title>iconfont-阿里巴巴矢量图标库</title>
+      </bookmark>
+      <bookmark href="https://fontawesome.dashgame.com/" id="332">
+        <title>Font Awesome-图标字体库和CSS框架</title>
+      </bookmark>
+      <bookmark href="https://www.manypixels.co/gallery" id="333">
+        <title>ManyPixels</title>
+      </bookmark>
+      <bookmark href="https://pixels.market/" id="334">
+        <title>Pixels</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="4">
     <title>Work Ago</title>
@@ -556,21 +571,6 @@
   </folder>
   <folder id="6">
     <title>Design Ago</title>
-    <folder id="149">
-      <title>Icons</title>
-      <bookmark href="https://www.iconfont.cn/" id="331">
-        <title>iconfont-阿里巴巴矢量图标库</title>
-      </bookmark>
-      <bookmark href="https://fontawesome.dashgame.com/" id="332">
-        <title>Font Awesome-图标字体库和CSS框架</title>
-      </bookmark>
-      <bookmark href="https://www.manypixels.co/gallery" id="333">
-        <title>ManyPixels</title>
-      </bookmark>
-      <bookmark href="https://pixels.market/" id="334">
-        <title>Pixels</title>
-      </bookmark>
-    </folder>
     <folder id="150">
       <title>Images</title>
       <bookmark href="https://pic.netbian.com/" id="335">
