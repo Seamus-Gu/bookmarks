@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :566: for Floccus bookmark sync browser extension -->
+<!--- highestId :572: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -59,6 +59,24 @@
       </bookmark>
       <bookmark href="https://yuanbao.tencent.com/chat/naQivTmsDa" id="566">
         <title>元宝</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="567">
+    <title>Design</title>
+    <folder id="568">
+      <title>Project</title>
+      <bookmark href="https://demo.gauzy.co/" id="569">
+        <title>Gauzy</title>
+      </bookmark>
+      <bookmark href="https://preview.pro.ant.design/dashboard/analysis/" id="570">
+        <title>Ant Design Pro</title>
+      </bookmark>
+      <bookmark href="https://demo.ruoyi.vip/index" id="571">
+        <title>ruoyi</title>
+      </bookmark>
+      <bookmark href="https://vue.ruoyi.vip/index" id="572">
+        <title>ruoyi</title>
       </bookmark>
     </folder>
   </folder>
