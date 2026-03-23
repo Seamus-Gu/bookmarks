@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :560: for Floccus bookmark sync browser extension -->
+<!--- highestId :566: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -44,8 +44,23 @@
       </bookmark>
     </folder>
   </folder>
-  <folder id="551">
+  <folder id="561">
     <title>Tools</title>
+    <folder id="562">
+      <title>AI</title>
+      <bookmark href="https://www.doubao.com/" id="563">
+        <title>豆包</title>
+      </bookmark>
+      <bookmark href="https://kimi.moonshot.cn/" id="564">
+        <title>Kimi</title>
+      </bookmark>
+      <bookmark href="https://yiyan.baidu.com/" id="565">
+        <title>文心一言</title>
+      </bookmark>
+      <bookmark href="https://yuanbao.tencent.com/chat/naQivTmsDa" id="566">
+        <title>元宝</title>
+      </bookmark>
+    </folder>
   </folder>
   <folder id="4">
     <title>Work Ago</title>
