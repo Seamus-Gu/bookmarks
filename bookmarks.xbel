@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :549: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <folder id="4">
+    <title>Work</title>
+    <folder id="136">
+      <title>Great Eagle</title>
+      <bookmark href="https://ipl-vm-hcm_app/GE/IPLHCM-Web/#/" id="278">
+        <title>IPLHCM</title>
+      </bookmark>
+    </folder>
+    <folder id="137">
+      <title>Hactl</title>
+      <bookmark href="https://ipl-vm-hactl.ctil.com/uat/Workforce-web/index.html#/" id="280">
+        <title>UAT</title>
+      </bookmark>
+      <bookmark href="https://ipl-vm-hactl.ctil.com/dev/Workforce-web/index.html#/" id="281">
+        <title>Dev</title>
+      </bookmark>
+      <bookmark href="https://172.16.107.250:8443/!/#HCM/view/head/branches/Hactl/Development" id="282">
+        <title>HCM/branches/Hactl/Development — VisualSVN Server</title>
+      </bookmark>
+    </folder>
+    <folder id="138">
+      <title>Mcd</title>
+      <bookmark href="http://localhost/IPLHCM-Web/#/Home/DefinitionAttendance" id="284">
+        <title>IPLHCM</title>
+      </bookmark>
+      <bookmark href="https://wfm.mcdonalds.com.hk/uat/iplhcm-web/index.html#/" id="285">
+        <title>IPLHCM_MCD</title>
+      </bookmark>
+    </folder>
+    <folder id="139">
+      <title>Tools</title>
+      <bookmark href="https://docs.where25.cn/" id="287">
+        <title>第二套测试环境</title>
+      </bookmark>
+      <bookmark href="https://zentao.pihcm.cn/my.html" id="288">
+        <title>地盘 - 禅道</title>
+      </bookmark>
+      <bookmark href="http://10.10.18.168/" id="289">
+        <title>GitLab</title>
+      </bookmark>
+      <bookmark href="https://ctil.atlassian.net/jira/your-work" id="290">
+        <title>Jira</title>
+      </bookmark>
+      <bookmark href="http://172.16.110.125/seamus_gu" id="291">
+        <title>Seamus Gu · GitLab</title>
+      </bookmark>
+      <bookmark href="https://damonwong.notion.site/damonwong/IPL-HRMS-d8cb831b21c9427486b14c9943328396" id="292">
+        <title>IPL HRMS</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/file/0PQD90myzDIbJKsywDtw87/HRMS-MCD?node-id=1226%3A4343" id="293">
+        <title>Figma</title>
+      </bookmark>
+      <bookmark href="https://ipl-vm-hactl.ctil.com/redmine/" id="294">
+        <title>Redmine</title>
+      </bookmark>
+      <bookmark href="http://172.22.13.119:8500/ui/" id="295">
+        <title>Consul</title>
+      </bookmark>
+      <bookmark href="https://redmine.ctil.com/issues/7363" id="296">
+        <title>MCD Redmain</title>
+      </bookmark>
+      <bookmark href="https://ctil00046.sharepoint.com/sites/HRMS-Chevalier/_layouts/15/Doc.aspx?sourcedoc={4486fab4-1566-47dd-9c00-8290dab5f701}&amp;action=edit&amp;wd=target%28Documents.one%7C03542b4b-5ea1-423a-be78-65ccca7a5e1d%2F8452%20Pleave%20provide%20eLeave%20reports%20%28for%20example%2C%20Leave%20%7C8d9bfde8-9e2e-9d46-b490-509680cba345%2F%29&amp;wdorigin=NavigationUrl" id="297">
+        <title>Chevalier</title>
+      </bookmark>
+      <bookmark href="http://172.22.13.119:10010/redmine/" id="298">
+        <title>Redmine</title>
+      </bookmark>
+      <bookmark href="https://172.16.107.250:8443/!/#HRMS.NET1.7/view/head/branches" id="299">
+        <title>VisualSVN Server</title>
+      </bookmark>
+      <bookmark href="https://gitlab.where25.cn/users/sign_in" id="300">
+        <title>Sign in · GitLab</title>
+      </bookmark>
+      <bookmark href="http://ipl-vm-core19:90/STDHRMS20/HRIS.NET.UI/aspx/login.aspx" id="301">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+      <bookmark href="https://adss.ctil.com:9251/authorization.do#/organization-chart" id="302">
+        <title>ManageEngine - ADSelfService Plus</title>
+      </bookmark>
+      <bookmark href="https://hrm-git.ctil.com/groups/hrms/pihcm" id="303">
+        <title>PIHCM · GitLab</title>
+      </bookmark>
+    </folder>
+    <folder id="140">
+      <title>Develop</title>
+      <bookmark href="http://127.0.0.1:15672/#/" id="305">
+        <title>RabbitMQ</title>
+      </bookmark>
+    </folder>
+    <folder id="141">
+      <title>Self</title>
+      <bookmark href="https://wfm.platinumchina.com/workforce-web/" id="307">
+        <title>WFM加班请假系统</title>
+      </bookmark>
+      <bookmark href="https://hris-prc.ctil.com/HRIS.NET.Platform.UI/Pages/Homepage.aspx" id="308">
+        <title>HRMS.NET</title>
+      </bookmark>
+      <bookmark href="https://owa.ctil.com/owa/#path=/mail" id="309">
+        <title>邮件 - Seamus_Gu@sz.ctil.com</title>
+      </bookmark>
+    </folder>
+    <folder id="142">
+      <title>HFG</title>
+      <bookmark href="https://ipl-vm-core19.ctil.com/HFG/HRIS.NET.UI/aspx/login.aspx" id="311">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+    </folder>
+    <folder id="143">
+      <title>UnionHS</title>
+      <bookmark href="https://ipl-vm-core19.ctil.com/UnionHS/HRIS.NET.UI/aspx/login.aspx" id="313">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+    </folder>
+    <folder id="144">
+      <title>CACIB</title>
+      <bookmark href="https://ipl-vm-core19.ctil.com/CACIB/HRIS.NET.UI/aspx/login.aspx" id="315">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+    </folder>
+    <folder id="145">
+      <title>MSIG</title>
+      <bookmark href="http://172.16.110.19/MSIG/HRMS.NET.UI/aspx/login.aspx" id="317">
+        <title>HRMS.NET - MSIG</title>
+      </bookmark>
+    </folder>
+    <folder id="279">
+      <title>CityFM</title>
+      <bookmark href="https://ipl-vm-hcm18/CityFM/Workforce-Web/" id="456">
+        <title>ipl-vm-hcm18/CityFM/Workforce-Web/</title>
+      </bookmark>
+      <folder id="457">
+        <title>Urban</title>
+        <bookmark href="http://ipl-vm-hcm_app/urban/iplhcm-web/index.html#/Dashboard" id="544">
+          <title>人力资源管理系统</title>
+        </bookmark>
+        <bookmark href="http://172.16.107.250:90/DevWebSite/Urban/HRIS.NET.UI/aspx/login.aspx" id="545">
+          <title>HRMS.NET - IPL Research Limited</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="283">
+      <title>LHG</title>
+      <bookmark href="http://ipl-vm-hcm_app/LHG_012/iplhcm-web/index.html#/Dashboard" id="458">
+        <title>ipl-vm-hcm_app/LHG_012/iplhcm-web/index.html#/Dashboard</title>
+      </bookmark>
+    </folder>
+    <folder id="286">
+      <title>HOHCS</title>
+      <bookmark href="https://ipl-vm-core19.ctil.com/HOHCS/HRIS.NET.UI/aspx/homepage.aspx" id="460">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+    </folder>
+    <folder id="304">
+      <title>PIHCM</title>
+      <bookmark href="http://ipl-vm-core19:90/STDHRMS20/HRIS.NET.UI/aspx/homepage.aspx" id="461">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+      <bookmark href="http://172.16.110.19/STDHRMS20_PiHCM/HRIS.NET.UI/aspx/login.aspx" id="462">
+        <title>HRMS.NET 2.0 - PiHCM - UAT</title>
+      </bookmark>
+      <bookmark href="https://hk-uat.pi-hcm.com/oauth/v1/login" id="463">
+        <title>PIHcm</title>
+      </bookmark>
+      <bookmark href="https://ihcm-test1.where25.cn/authorize/v1/login" id="464">
+        <title>PIHcm</title>
+      </bookmark>
+      <bookmark href="https://grafana.where25.cn/explore?orgId=1&amp;left=%7B%22datasource%22:%22yI6SZH-4z%22,%22queries%22:%5B%7B%22refId%22:%22A%22,%22datasource%22:%7B%22type%22:%22prometheus%22,%22uid%22:%22yI6SZH-4z%22%7D%7D%5D,%22range%22:%7B%22from%22:%22now-1h%22,%22to%22:%22now%22%7D%7D" id="465">
+        <title>Explore - Prometheus - Grafana</title>
+      </bookmark>
+      <bookmark href="https://citybase-uat.pi-hcm.com/dashboard" id="466">
+        <title>Dashboard</title>
+      </bookmark>
+      <bookmark href="http://hk-prd-sql2019/CORE/HRIS.NET.UI/aspx/login.aspx" id="467">
+        <title>UAT Core</title>
+      </bookmark>
+      <bookmark href="https://hk-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="468">
+        <title>Middle</title>
+      </bookmark>
+      <bookmark href="https://hk-test2.pi-hcm.com/" id="469">
+        <title>PIHcm</title>
+      </bookmark>
+      <bookmark href="https://hk-test2.pi-hcm.com/authorize/v1/login" id="470">
+        <title>PIHcm</title>
+      </bookmark>
+      <bookmark href="http://172.16.105.101/CORE/HK-TEST2/HRIS.NET.UI/aspx/homepage.aspx" id="471">
+        <title>HRIS.NET - HK-TEST2</title>
+      </bookmark>
+    </folder>
+    <folder id="306">
+      <title>堡垒机</title>
+      <bookmark href="http://172.16.2.11:10980/ui/#/profile/info" id="472">
+        <title>用户信息 - JumpServer 开源堡垒机</title>
+      </bookmark>
+      <bookmark href="https://jmshk.pi-hcm.com/core/auth/login/" id="473">
+        <title>JumpServer 开源堡垒机</title>
+      </bookmark>
+    </folder>
+    <folder id="310">
+      <title>CrystalJade</title>
+      <bookmark href="http://hk-prd-sql2019/CORE/CrystalJade/HRIS.NET.UI/aspx/login.aspx" id="474">
+        <title>HRIS.NET - CrystalJade</title>
+      </bookmark>
+      <bookmark href="https://cj-uat.pi-hcm.com/dashboard" id="475">
+        <title>工作台</title>
+      </bookmark>
+      <bookmark href="https://cj-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="476">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="https://hrms-uat.crystaljade.com.hk/authorize/v1/login" id="477">
+        <title>客户 Crystal Jade HK </title>
+      </bookmark>
+    </folder>
+    <folder id="312">
+      <title>CityBase</title>
+      <bookmark href="https://citybase-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="478">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="https://citybase-uat.pi-hcm.com/authorize/v1/authorize?client_id=1&amp;response_type=code&amp;state=1750664591735&amp;code_challenge=aeTcCq5EyjnselBDmToojVrNwtAvBQKRnQU_t0XtE1Y&amp;code_challenge_method=S256&amp;redirect_uri=https://citybase-uat.pi-hcm.com&amp;from=aHR0cHMlM0ElMkYlMkZjaXR5YmFzZS11YXQucGktaGNtLmNvbSUyRg==" id="479">
+        <title>PIHcm</title>
+      </bookmark>
+      <bookmark href="http://hk-prd-sql2019/CORE/CityBase/HRIS.NET.UI/aspx/login.aspx" id="480">
+        <title>HRIS.NET - CrystalJade</title>
+      </bookmark>
+    </folder>
+    <folder id="314">
+      <title>IFC</title>
+      <bookmark href="https://ifc-uat.pi-hcm.com/ipl_middlewareservices/QuartzUI" id="481">
+        <title>ifc-uat.pi-hcm.com/ipl_middlewareservices/QuartzUI</title>
+      </bookmark>
+      <bookmark href="https://ifc-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="482">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="http://hk-prd-sql2019/CORE/IFC/HRIS.NET.UI/aspx/login.aspx" id="483">
+        <title>HRIS.NET - IFC</title>
+      </bookmark>
+      <bookmark href="http://172.22.13.126:35672/#/queues/%2F/staff_queue" id="484">
+        <title>RabbitMQ Management</title>
+      </bookmark>
+    </folder>
+    <folder id="316">
+      <title>Test2</title>
+      <bookmark href="http://hk-prd-sql2019/CORE/HK-TEST2/HRIS.NET.UI/aspx/login.aspx" id="485">
+        <title>HRIS.NET - HK-TEST2</title>
+      </bookmark>
+      <bookmark href="https://hk-test2.pi-hcm.com/ipl_middlewareservices/QuartzUI" id="486">
+        <title>hk-test2.pi-hcm.com/ipl_middlewareservices/QuartzUI</title>
+      </bookmark>
+      <bookmark href="http://172.16.105.111:15672/#/queues/%2F/ihcm_hrm_ipl_staff_queue" id="487">
+        <title>RabbitMQ Management</title>
+      </bookmark>
+    </folder>
+    <folder id="318">
+      <title>ALF</title>
+      <bookmark href="https://alf-uat.pi-hcm.com/authorize/v1/login" id="488">
+        <title>Pihcm</title>
+      </bookmark>
+      <bookmark href="https://alf-uat.pi-hcm.com/ipl_payroll/swagger/index.html?urls.primaryName=IPLEmployee" id="489">
+        <title>Swagger UI</title>
+      </bookmark>
+    </folder>
+    <folder id="459">
+      <title>Tese1</title>
+      <bookmark href="https://ihcm-test1.where25.cn/" id="546">
+        <title>PIHcm</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="5">
+    <title>Study</title>
+    <folder id="146">
+      <title>FrontEnd</title>
+      <folder id="319">
+        <title>JS</title>
+        <bookmark href="https://demo.grapecity.com.cn/spreadjs/SpreadJSTutorial/features/tables/table-style/purejs" id="490">
+          <title>SpreadJs</title>
+        </bookmark>
+        <bookmark href="https://lbs.amap.com/api/jsapi-v2/documentation#buildings" id="491">
+          <title>AMap</title>
+        </bookmark>
+        <bookmark href="http://www.yanhuangxueyuan.com/threejs/docs/index.html#manual/zh/introduction/Creating-a-scene" id="492">
+          <title>Three</title>
+        </bookmark>
+        <bookmark href="https://cn.eslint.org/docs/user-guide/configuring" id="493">
+          <title>ESLint.js</title>
+        </bookmark>
+        <bookmark href="https://demos.telerik.com/kendo-ui/" id="494">
+          <title>Kendo UI for jQuery</title>
+        </bookmark>
+        <bookmark href="https://grpc.io/docs/languages/node/quickstart/" id="495">
+          <title>GRPC</title>
+        </bookmark>
+        <bookmark href="https://dayjs.fenxianglu.cn/" id="496">
+          <title>Day.js</title>
+        </bookmark>
+        <bookmark href="https://google.github.io/styleguide/jsguide.html" id="497">
+          <title>Google JavaScript Style Guide</title>
+        </bookmark>
+        <bookmark href="https://docs.telerik.com/devtools/aspnet-ajax/controls/checkbox/getting-started" id="498">
+          <title>Telerik UI for ASP.NET AJAX</title>
+        </bookmark>
+      </folder>
+      <folder id="320">
+        <title>Css</title>
+        <bookmark href="https://www.dowebok.com/demo/2014/98/" id="499">
+          <title>animate.css动画演示_dowebok</title>
+        </bookmark>
+        <bookmark href="https://getcssscan.com/css-box-shadow-examples?ref=producthunt" id="500">
+          <title>93 Beautiful CSS box-shadow examples - CSS Scan</title>
+        </bookmark>
+        <bookmark href="https://cssreference.io/" id="501">
+          <title>CSS Reference</title>
+        </bookmark>
+        <bookmark href="https://codepen.io/" id="502">
+          <title>CodePen</title>
+        </bookmark>
+      </folder>
+      <folder id="321">
+        <title>Framework</title>
+        <bookmark href="https://zh-hans.reactjs.org/" id="503">
+          <title>React</title>
+        </bookmark>
+        <bookmark href="https://cn.vuejs.org/" id="504">
+          <title>Vue.js</title>
+        </bookmark>
+        <bookmark href="https://router.vuejs.org/zh/introduction.html" id="505">
+          <title>Vue Router</title>
+        </bookmark>
+        <bookmark href="https://uniapp.dcloud.net.cn/" id="506">
+          <title>uni-app官网</title>
+        </bookmark>
+        <bookmark href="https://webpack.js.org/" id="507">
+          <title>webpack</title>
+        </bookmark>
+      </folder>
+      <folder id="322">
+        <title>Components</title>
+        <bookmark href="https://jparticles.js.org/#/examples/quick-start" id="508">
+          <title>JParticles</title>
+        </bookmark>
+        <bookmark href="https://echarts.apache.org/zh/index.html" id="509">
+          <title>ECharts</title>
+        </bookmark>
+        <bookmark href="https://aesoper101.github.io/vue3-colorpicker/?path=/story/example-introduction--page" id="510">
+          <title>Vue3ColorPicker</title>
+        </bookmark>
+        <bookmark href="https://vueuse.org/" id="511">
+          <title>VueUse</title>
+        </bookmark>
+        <bookmark href="https://100px.net/" id="512">
+          <title>Lucky Canvas</title>
+        </bookmark>
+        <bookmark href="https://antv.vision/zh" id="513">
+          <title>AntV </title>
+        </bookmark>
+        <bookmark href="https://www.vueusejs.com/" id="514">
+          <title>VueUse中文文档</title>
+        </bookmark>
+      </folder>
+      <folder id="323">
+        <title>UI Components</title>
+        <bookmark href="https://element-plus.gitee.io/zh-CN/#/zh-CN/component/installation" id="515">
+          <title>Element Plus</title>
+        </bookmark>
+        <bookmark href="https://2x.antdv.com/components/menu-cn#API" id="516">
+          <title>Ant Design Vue</title>
+        </bookmark>
+        <bookmark href="https://v4.mui.com/zh/getting-started/usage/" id="517">
+          <title>Material-UI</title>
+        </bookmark>
+        <bookmark href="https://mui.com/material-ui/" id="518">
+          <title>Material UI</title>
+        </bookmark>
+        <bookmark href="https://element.eleme.cn/#/zh-CN" id="519">
+          <title>Element UI</title>
+        </bookmark>
+        <bookmark href="https://quasar.dev/introduction-to-quasar" id="520">
+          <title>Quasar</title>
+        </bookmark>
+        <bookmark href="https://primefaces.org/primevue/" id="521">
+          <title>PrimeVue</title>
+        </bookmark>
+        <bookmark href="https://vuetifyjs.com/en/" id="522">
+          <title>Vuetify</title>
+        </bookmark>
+        <bookmark href="https://www.naiveui.com/zh-CN/os-theme/docs/introduction" id="523">
+          <title>Naive UI</title>
+        </bookmark>
+        <bookmark href="http://augmented-ui.com/" id="524">
+          <title>augmented-ui</title>
+        </bookmark>
+        <bookmark href="https://uiadmin.net/uview-plus/components/quickstart.html" id="525">
+          <title>uview-plus</title>
+        </bookmark>
+        <bookmark href="https://vant-ui.github.io/vant/#/zh-CN/icon" id="526">
+          <title>Vant 4</title>
+        </bookmark>
+        <bookmark href="https://vue3.tuniaokj.com/" id="527">
+          <title>Tuniao UI Uniapp V3 - TuniaoUI</title>
+        </bookmark>
+      </folder>
+      <folder id="324">
+        <title>Technology</title>
+        <bookmark href="https://developer.mozilla.org/zh-CN/" id="528">
+          <title>MDN</title>
+        </bookmark>
+        <bookmark href="https://htmlreference.io/" id="529">
+          <title>HTML Reference</title>
+        </bookmark>
+        <bookmark href="https://any86.github.io/any-rule/" id="530">
+          <title>正则大全</title>
+        </bookmark>
+      </folder>
+      <folder id="325">
+        <title>PC</title>
+        <bookmark href="https://www.electronjs.org/zh/" id="531">
+          <title>Electron</title>
+        </bookmark>
+      </folder>
+      <folder id="326">
+        <title>Android</title>
+        <bookmark href="https://www.reactnative.cn/docs/environment-setup" id="532">
+          <title>React Native</title>
+        </bookmark>
+        <bookmark href="https://developer.android.google.cn/studio/intro?hl=zh-cn" id="533">
+          <title>Android Studio</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="147">
+      <title>Backend</title>
+      <folder id="327">
+        <title>.Net</title>
+        <bookmark href="https://learn.microsoft.com/zh-cn/" id="534">
+          <title>Microsoft Learn</title>
+        </bookmark>
+        <bookmark href="https://nlog-project.org/" id="535">
+          <title>NLog</title>
+        </bookmark>
+        <bookmark href="https://www.donet5.com/Home/Doc" id="536">
+          <title>SqlSugar</title>
+        </bookmark>
+      </folder>
+      <folder id="328">
+        <title>Node</title>
+        <bookmark href="https://docs.nestjs.cn/" id="537">
+          <title>Nest.js</title>
+        </bookmark>
+        <bookmark href="https://www.express-gateway.io/getting-started/" id="538">
+          <title>Express Gateway</title>
+        </bookmark>
+      </folder>
+      <folder id="329">
+        <title>Maven</title>
+        <bookmark href="https://cn.dubbo.apache.org/zh-cn/index.html" id="539">
+          <title>Apache Dubbo</title>
+        </bookmark>
+      </folder>
+      <folder id="330">
+        <title>Java</title>
+        <folder id="540">
+          <title>Maven</title>
+          <bookmark href="https://sa-token.cc/" id="547">
+            <title>Sa-Token</title>
+          </bookmark>
+          <bookmark href="https://www.hutool.cn/" id="548">
+            <title>Hutool</title>
+          </bookmark>
+          <bookmark href="https://baomidou.com/" id="549">
+            <title>MyBatis-Plus</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/index.html" id="541">
+          <title>Spring Framework</title>
+        </bookmark>
+        <bookmark href="https://mvnrepository.com/" id="542">
+          <title>Maven Repository</title>
+        </bookmark>
+        <bookmark href="https://spring.io/projects/spring-cloud" id="543">
+          <title>Spring Cloud</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="148">
+      <title>Scholarism</title>
+    </folder>
+  </folder>
+  <folder id="6">
+    <title>Design</title>
+    <folder id="149">
+      <title>Icons</title>
+      <bookmark href="https://www.iconfont.cn/" id="331">
+        <title>iconfont-阿里巴巴矢量图标库</title>
+      </bookmark>
+      <bookmark href="https://fontawesome.dashgame.com/" id="332">
+        <title>Font Awesome-图标字体库和CSS框架</title>
+      </bookmark>
+      <bookmark href="https://www.manypixels.co/gallery" id="333">
+        <title>ManyPixels</title>
+      </bookmark>
+      <bookmark href="https://pixels.market/" id="334">
+        <title>Pixels</title>
+      </bookmark>
+    </folder>
+    <folder id="150">
+      <title>Images</title>
+      <bookmark href="https://pic.netbian.com/" id="335">
+        <title>4K壁纸</title>
+      </bookmark>
+      <bookmark href="https://588ku.com/gif/keji-6-0-default-1/" id="336">
+        <title>千库网</title>
+      </bookmark>
+      <bookmark href="https://bbs.rainmeter.cn/" id="337">
+        <title>雨滴美化社区|Rainmeter</title>
+      </bookmark>
+      <bookmark href="https://www.51yuansu.com/search/kejigankuang.html" id="338">
+        <title>觅元素</title>
+      </bookmark>
+      <bookmark href="http://3png.com/list.html?k=xn2qu91k56q&amp;p=4" id="339">
+        <title>三元素3png.com</title>
+      </bookmark>
+      <bookmark href="https://www.zztuku.com/tupian-6-0/8.html" id="340">
+        <title>站长图库</title>
+      </bookmark>
+      <bookmark href="https://unsplash.dogedoge.com/" id="341">
+        <title>Unsplash</title>
+      </bookmark>
+      <bookmark href="https://www.pexels.com/zh-cn/" id="342">
+        <title>Pexels</title>
+      </bookmark>
+      <bookmark href="https://pixabay.com/zh/" id="343">
+        <title>Pixabay</title>
+      </bookmark>
+      <bookmark href="https://www.freepik.com/" id="344">
+        <title>Freepik</title>
+      </bookmark>
+      <bookmark href="https://pikwizard.com/" id="345">
+        <title>Free Commercial Stock Photos &amp; Royalty Free Images | PikWizard</title>
+      </bookmark>
+      <bookmark href="https://gratisography.com/" id="346">
+        <title>Gratisography</title>
+      </bookmark>
+      <bookmark href="https://www.rawpixel.com/" id="347">
+        <title>Free Stock Photos, PNGs, Templates &amp; Mockups | rawpixel</title>
+      </bookmark>
+      <bookmark href="https://picjumbo.com/" id="348">
+        <title>Picjumbo</title>
+      </bookmark>
+      <bookmark href="https://www.drawkit.com/" id="349">
+        <title>DrawKit</title>
+      </bookmark>
+      <bookmark href="https://konachan.net/" id="350">
+        <title>konachan.net</title>
+      </bookmark>
+      <bookmark href="https://www.pinterest.com/" id="351">
+        <title>Pinterest</title>
+      </bookmark>
+      <bookmark href="https://vsthemes.org/en/" id="352">
+        <title>Windows Design - Customize Desktop</title>
+      </bookmark>
+      <bookmark href="https://louie.world/wallpapers/" id="353">
+        <title>LouieWorld: Wallpapers</title>
+      </bookmark>
+      <bookmark href="https://useum.org/" id="354">
+        <title>Interactive Fine Art Gallery &amp; Museum USEUM</title>
+      </bookmark>
+    </folder>
+    <folder id="151">
+      <title>Other</title>
+      <bookmark href="https://webkul.github.io/coolhue/" id="355">
+        <title>CoolHue 2.0-渐变</title>
+      </bookmark>
+      <bookmark href="https://uigradients.com/#BloodRed" id="356">
+        <title>uiGradients - 渐变</title>
+      </bookmark>
+      <bookmark href="https://webgradients.com/" id="357">
+        <title>WebGradients.com</title>
+      </bookmark>
+    </folder>
+    <folder id="152">
+      <title>PPT</title>
+      <bookmark href="https://www.1ppt.com/" id="358">
+        <title>PPT模板</title>
+      </bookmark>
+    </folder>
+    <folder id="153">
+      <title>UI</title>
+      <bookmark href="https://www.17sucai.com/" id="359">
+        <title>jQuery网页特效</title>
+      </bookmark>
+      <bookmark href="https://ant.design/docs/spec/introduce-cn" id="360">
+        <title> Ant Design</title>
+      </bookmark>
+      <bookmark href="https://dribbble.com/shots/popular" id="361">
+        <title>Dribbble</title>
+      </bookmark>
+      <bookmark href="https://uigarage.net/platform/web/" id="362">
+        <title>Web Archives - UI Garage</title>
+      </bookmark>
+      <bookmark href="https://www.iamxk.com/nav-ui" id="363">
+        <title>UI设计设计导航 – 设计小咖</title>
+      </bookmark>
+    </folder>
+    <folder id="154">
+      <title>PixelArt</title>
+      <bookmark href="https://www.manypixels.co/gallery/" id="364">
+        <title>ManyPixels</title>
+      </bookmark>
+      <bookmark href="https://www.svgrepo.com/" id="365">
+        <title>SVG Repo</title>
+      </bookmark>
+      <bookmark href="https://igoutu.cn/illustrations" id="366">
+        <title>Ouch</title>
+      </bookmark>
+      <bookmark href="https://www.flaticon.com/" id="367">
+        <title>Flation</title>
+      </bookmark>
+    </folder>
+    <folder id="155">
+      <title>AI</title>
+      <bookmark href="https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F" id="368">
+        <title>Midjourney</title>
+      </bookmark>
+      <bookmark href="https://stability.ai/blog/stable-diffusion-public-release" id="369">
+        <title>Stable Diffusion Public Release — Stability AI</title>
+      </bookmark>
+      <bookmark href="https://openai.com/product/dall-e-2" id="370">
+        <title>DALL·E 2</title>
+      </bookmark>
+      <bookmark href="https://yige.baidu.com/" id="371">
+        <title>文心一格 - AI艺术和创意辅助平台</title>
+      </bookmark>
+      <bookmark href="https://6pen.art/" id="372">
+        <title>6pen Art</title>
+      </bookmark>
+      <bookmark href="https://lexica.art/" id="373">
+        <title>Lexica</title>
+      </bookmark>
+      <bookmark href="https://arthub.ai/" id="374">
+        <title>Arthub.ai</title>
+      </bookmark>
+    </folder>
+    <folder id="156">
+      <title>3D</title>
+      <bookmark href="https://www.textures.com/library" id="375">
+        <title>Latest Textures</title>
+      </bookmark>
+      <bookmark href="https://polyhaven.com/textures" id="376">
+        <title>Textures • Poly Haven</title>
+      </bookmark>
+      <bookmark href="https://matheowis.github.io/HDRI-to-CubeMap/" id="377">
+        <title>HDRI to CubeMap</title>
+      </bookmark>
+      <bookmark href="https://poly.pizza/" id="378">
+        <title>Poly Pizza: Free 3D models for everyone</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="7">
+    <title>Tools</title>
+    <folder id="157">
+      <title>Drawing</title>
+      <bookmark href="https://www.processon.com/" id="379">
+        <title>ProcessOn-在线作图</title>
+      </bookmark>
+      <bookmark href="https://www.freedgo.com/draw-index.html" id="380">
+        <title>Freedgo-在线绘图图表制作</title>
+      </bookmark>
+      <bookmark href="https://app.diagrams.net/" id="381">
+        <title>Diagrams.net</title>
+      </bookmark>
+    </folder>
+    <folder id="158">
+      <title>Develop</title>
+      <bookmark href="https://www.toolnb.com/tools/xiantiaozi.html" id="382">
+        <title>线条字在线生成</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/" id="383">
+        <title>Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://c.runoob.com/front-end/61/" id="384">
+        <title>HTML/CSS/JS 在线工具 | 菜鸟工具</title>
+      </bookmark>
+      <bookmark href="https://wejson.cn/" id="385">
+        <title>WeJSON</title>
+      </bookmark>
+      <bookmark href="https://www.coderutil.com/" id="386">
+        <title>程序员盒子</title>
+      </bookmark>
+      <bookmark href="https://convertio.co/zh/" id="387">
+        <title>Convertio-文件转换器</title>
+      </bookmark>
+      <bookmark href="https://www.iamwawa.cn/" id="388">
+        <title>蛙蛙工具 - 便捷的在线工具网站</title>
+      </bookmark>
+      <bookmark href="https://tool.mkblog.cn/" id="389">
+        <title>首页 - 孟坤工具箱网页版</title>
+      </bookmark>
+      <bookmark href="https://kimi.moonshot.cn/chat/cq7jjqqkg1a8ese1pg70" id="390">
+        <title>Kimi.ai - 帮你看更大的世界</title>
+      </bookmark>
+      <bookmark href="https://yuanbao.tencent.com/chat/naQivTmsDa/5558a39a-a11c-481e-8ab2-b50ab19c3a65" id="391">
+        <title>腾讯元宝 - 轻松工作 多点生活</title>
+      </bookmark>
+      <bookmark href="https://chat.deepseek.com/" id="392">
+        <title>DeepSeek - 探索未至之境</title>
+      </bookmark>
+      <bookmark href="https://app.dubbingx.com/login" id="393">
+        <title>DubbingX</title>
+      </bookmark>
+      <bookmark href="https://yiyan.baidu.com/task/painting" id="394">
+        <title>文心一言</title>
+      </bookmark>
+      <bookmark href="https://www.canva.cn/design/DAGjd4R2qAQ/ZDl9UhQ4R3YclTrh5V0YaA/edit?ui=eyJFIjp7IkE_IjoiViIsIkIiOiJCIn0sIkciOnsiQiI6dHJ1ZX19" id="395">
+        <title>未命名的设计- Instagram帖子</title>
+      </bookmark>
+      <bookmark href="https://webnote.cc/8749235/" id="396">
+        <title>WebNote云便签</title>
+      </bookmark>
+      <bookmark href="https://www.haioukc.com/" id="397">
+        <title>海鸥快传-免费不限速快速传输工具</title>
+      </bookmark>
+      <bookmark href="https://www.doubao.com/chat/" id="398">
+        <title>豆包 - 字节跳动旗下 AI 智能助手</title>
+      </bookmark>
+    </folder>
+    <folder id="159">
+      <title>DownloadSoft</title>
+      <bookmark href="https://download.cnet.com/" id="399">
+        <title>Free Software Downloads and Reviews for Windows, Android, Mac, and iOS – CNET Download</title>
+      </bookmark>
+      <bookmark href="https://www.softpedia.com/" id="400">
+        <title>Softpedia</title>
+      </bookmark>
+      <bookmark href="https://filehippo.com/" id="401">
+        <title>FileHippo.com</title>
+      </bookmark>
+      <bookmark href="https://www.downloadcrew.com/" id="402">
+        <title>Downloadcrew</title>
+      </bookmark>
+      <bookmark href="https://sourceforge.net/" id="403">
+        <title>SourceForge</title>
+      </bookmark>
+    </folder>
+    <folder id="160">
+      <title>Other</title>
+      <bookmark href="https://github.com/freefq/free" id="404">
+        <title>V2rayN</title>
+      </bookmark>
+      <bookmark href="https://chrome.google.com/sync" id="405">
+        <title>同步Chrome 数据</title>
+      </bookmark>
+      <bookmark href="chrome://sync-internals/" id="406">
+        <title>同步Chrome</title>
+      </bookmark>
+      <bookmark href="https://zoom.earth/maps/satellite/#view=21.9,98.3,4z" id="407">
+        <title>Zoom Earth | 天气图，实时风暴跟踪器</title>
+      </bookmark>
+    </folder>
+    <folder id="161">
+      <title>Self</title>
+      <bookmark href="https://103.150.181.217:22522/" id="408">
+        <title>宝塔Linux面板</title>
+      </bookmark>
+      <bookmark href="http://103.150.181.217:7001/static/#/" id="409">
+        <title>Frps</title>
+      </bookmark>
+      <bookmark href="http://103.150.181.217:3000/" id="410">
+        <title>Gogs</title>
+      </bookmark>
+      <bookmark href="https://seamusgu.tech/blog/" id="411">
+        <title>Seamus&apos;s Blog</title>
+      </bookmark>
+      <bookmark href="http://103.150.181.217:9001/" id="412">
+        <title>MinIO</title>
+      </bookmark>
+      <bookmark href="https://packages.aliyun.com/maven" id="413">
+        <title>Maven仓库 </title>
+      </bookmark>
+      <bookmark href="https://www.vpsor.cn/center/personal" id="414">
+        <title>硅云</title>
+      </bookmark>
+      <bookmark href="https://devops.aliyun.com/workbench?_userId=6253e64dec85cdece21503b3&amp;timestamp=1677649937326&amp;mode=redirect&amp;sign=302f782708e55a76581c46a325efe08e" id="415">
+        <title>云效 工作台</title>
+      </bookmark>
+      <bookmark href="https://app.slack.com/client/T052NMVB8B1/D052WLWFST0" id="416">
+        <title>Claude - Slack</title>
+      </bookmark>
+      <bookmark href="https://poe.com/" id="417">
+        <title>Poe</title>
+      </bookmark>
+      <bookmark href="https://swasnext.console.aliyun.com/servers/ap-southeast-1" id="418">
+        <title>轻量应用服务器</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="8">
+    <title>Entertainment</title>
+    <folder id="162">
+      <title>Music</title>
+      <bookmark href="http://www.xmsj.org/" id="419">
+        <title>音乐搜索器</title>
+      </bookmark>
+      <bookmark href="https://tool.liumingye.cn/music/#/" id="420">
+        <title>MyFreeMp3</title>
+      </bookmark>
+      <bookmark href="https://60yp.com/" id="421">
+        <title>60音盘</title>
+      </bookmark>
+      <bookmark href="https://www.wotianna.com/hybqj/" id="422">
+        <title>音乐合集</title>
+      </bookmark>
+      <bookmark href="http://www.84082.com/mp3/717e5fe2121de252d0a5fc498c20cb1d.html" id="423">
+        <title>嘻哈音乐网</title>
+      </bookmark>
+      <bookmark href="https://music.haom.ren/" id="424">
+        <title>音乐搜索器</title>
+      </bookmark>
+      <bookmark href="http://tool.tesiber.com/music/" id="425">
+        <title>音乐搜索器</title>
+      </bookmark>
+      <bookmark href="https://www.zhiyunge.cn/music/" id="426">
+        <title>知云阁音乐搜索器</title>
+      </bookmark>
+      <bookmark href="https://www.gequbao.com/" id="427">
+        <title>歌曲宝</title>
+      </bookmark>
+      <bookmark href="https://www.gequbao.com/s/" id="428">
+        <title>歌曲宝</title>
+      </bookmark>
+      <bookmark href="https://www.gequbao.com/" id="429">
+        <title>歌曲宝</title>
+      </bookmark>
+      <bookmark href="https://www.xmwav.com/" id="430">
+        <title>熊猫无损音乐网-mp3歌曲免费下载|无损音乐分享网站</title>
+      </bookmark>
+    </folder>
+    <folder id="163">
+      <title>Video</title>
+      <bookmark href="https://www.1905.com/" id="431">
+        <title>1905电影网.com</title>
+      </bookmark>
+      <bookmark href="https://www.liuliyy.com/?ref=yinyueke.net" id="432">
+        <title>琉璃影院-全网影视免费在线观看电影电视剧综艺动漫韩剧港剧台剧泰剧欧美剧日剧</title>
+      </bookmark>
+      <bookmark href="https://y80s.tv/" id="433">
+        <title>80s手机电影网</title>
+      </bookmark>
+      <bookmark href="https://www.dyttcn.com/" id="434">
+        <title>电影天堂</title>
+      </bookmark>
+      <bookmark href="https://xunlei8.top/tv-0-0-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86-rating-1-30.html" id="435">
+        <title>2024高分好评中国大陆电视剧720p,1080P迅雷下载、百度网盘、BT下载 - 迅雷电影天堂</title>
+      </bookmark>
+      <bookmark href="https://www.pianbar.net/Class_167/Default.aspx" id="436">
+        <title>电视综艺_片吧</title>
+      </bookmark>
+      <bookmark href="https://y80s.tv/" id="437">
+        <title>80s手机电影网 - MP4高清手机电影下载_最新MP4电视剧迅雷下载</title>
+      </bookmark>
+      <bookmark href="https://www.bilibili.com/video/BV1kS4y1o7io/" id="438">
+        <title>【合集】经典爆笑小品65集，全是高清的，快来看。赵本山范伟冯巩潘长江_哔哩哔哩_bilibili</title>
+      </bookmark>
+      <bookmark href="https://yinghuadongman.me/" id="439">
+        <title>樱花动漫 - 专注二次元ACG动漫BT迅雷下载</title>
+      </bookmark>
+      <bookmark href="https://so.pianbar.net/search.aspx?q=%E6%9C%A8%E4%B9%83%E4%BC%8A3" id="440">
+        <title>片吧站内搜索引擎</title>
+      </bookmark>
+      <bookmark href="https://xunlei8.top/movie/45863575.html" id="441">
+        <title>2022剧情《黑暗荣耀》高清迅雷下载_720p_1080p - 迅雷电影天堂</title>
+      </bookmark>
+      <bookmark href="https://libvioo.com/" id="442">
+        <title>LIBVIO影视 - 超清在线视频站「超前点播」</title>
+      </bookmark>
+      <bookmark href="https://wzhonghe.com/?p=16281" id="443">
+        <title>[韩剧2022][8.9分]《黑暗荣耀1》[全8集][韩语中字][1080P/4K]-无中和wzhonghe.Com</title>
+      </bookmark>
+      <bookmark href="https://v.ijujitv.cc/" id="444">
+        <title>剧集TV-最新热播陆剧,日剧,韩剧,美剧,泰剧在线观看,好看的电视剧推荐</title>
+      </bookmark>
+      <bookmark href="https://www.dygang.net/" id="445">
+        <title>电影港_高清电影下载_720p高清_1080p高清</title>
+      </bookmark>
+    </folder>
+    <folder id="164">
+      <title>Novel</title>
+      <bookmark href="https://write.qq.com/portal/community/profile/viewpoints" id="446">
+        <title>个人主页-观点-阅文作家专区</title>
+      </bookmark>
+      <bookmark href="https://github.com/gedoor/legado" id="447">
+        <title>gedoor/legado: Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</title>
+      </bookmark>
+    </folder>
+    <folder id="165">
+      <title>Resource</title>
+      <bookmark href="https://www.pan131.com/yun/Shatter%20Me/" id="448">
+        <title>盘131</title>
+      </bookmark>
+      <bookmark href="https://www.kuakeba.top/yunpan/movie" id="449">
+        <title>2024最新电影,热门电影排行榜,高清高分电影,1080P,4K电影下载-夸克网盘吧</title>
+      </bookmark>
+    </folder>
+    <folder id="166">
+      <title>Home</title>
+      <bookmark href="https://tv.cctv.com/live/cctv6/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.7" id="450">
+        <title>CCTV-6电影频道高清直播_CCTV节目官网_央视网</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="9">
+    <title>Game</title>
+    <bookmark href="https://overframe.gg/" id="167">
+      <title>Overframe</title>
+    </bookmark>
+    <bookmark href="https://warframe.huijiwiki.com/wiki/Mainpage" id="168">
+      <title>WARFRAME</title>
+    </bookmark>
+    <bookmark href="https://dc.gamekee.com/75195.html" id="169">
+      <title>天命之子-wiki</title>
+    </bookmark>
+    <bookmark href="https://warframe.market/items/hespar_blade" id="170">
+      <title>Warframe Market</title>
+    </bookmark>
+    <folder id="171">
+      <title>原神</title>
+      <bookmark href="https://cocogoat.work/achievement/" id="451">
+        <title>椰羊cocogoat</title>
+      </bookmark>
+      <bookmark href="https://www.bilibili.com/video/BV1P6SNYREo8/?spm_id_from=333.788.player.switch&amp;vd_source=ba86111c6a11774419d967ff001478c5&amp;p=12" id="452">
+        <title>奥奇卡纳塔(1) 共21个(115-135)成就数134 神曈29【为我敞开心扉】_哔哩哔哩_bilibili</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="10">
+    <title>Article</title>
+    <folder id="172">
+      <title>Prgram</title>
+      <bookmark href="http://www.ruanyifeng.com/blog/2014/05/restful_api.html" id="453">
+        <title>RESTful API 设计指南</title>
+      </bookmark>
+      <bookmark href="https://joy1412.cn/threejs/" id="454">
+        <title>《Threejs》笔记 | 嘟先生学WebGL</title>
+      </bookmark>
+      <bookmark href="https://docs.github.com/zh/rest?apiVersion=2022-11-28" id="455">
+        <title>GitHub REST API 文档 - GitHub 文档</title>
+      </bookmark>
+    </folder>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <bookmark href="http://www.yanhuangxueyuan.com/doc/Three.js/OrbitControls.html" id="11">
+    <title>Three.js相机控件OrbitControls</title>
+  </bookmark>
+  <folder id="12">
+    <title>已导入</title>
+    <bookmark href="https://blog.csdn.net/qq_39377418/article/details/88774923" id="173">
+      <title>(6条消息) windows系统下redis安装以及设置redis开机自启动方法教程_GLOBE TREKKER-CSDN博客_redis开机自启动设置windows</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_21476953/article/details/113813222" id="174">
+      <title>(12条消息) Github首页地球学习(1)-Earth_DSLMing的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_41111068/article/details/82491985" id="175">
+      <title>(19条消息) three.js THREE.WebGLRenderer 参数_蜗牛速度额的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="http://www.yifupei.com/" id="176">
+      <title>衣服配_流行服饰搭配大全</title>
+    </bookmark>
+    <bookmark href="https://www.sj33.cn/digital/wysj/202205/58865.html" id="177">
+      <title>23个音乐后台界面设计 - 设计之家</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>收藏夹栏</title>
+    <bookmark href="https://www.nowcoder.com/" id="178">
+      <title>牛客网-找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网</title>
+    </bookmark>
+    <bookmark href="https://www.jiumodiary.com/" id="179">
+      <title>Jiumo Search 鸠摩搜索 - 文档搜索引擎</title>
+    </bookmark>
+    <bookmark href="http://www.future-lighting.cn/zuoti/qualification/" id="180">
+      <title>资格考试_烂笔网</title>
+    </bookmark>
+    <bookmark href="http://res.gxlib.org.cn/ermsClient/browse.do;CWJSESSIONID=CF9F24E582B57AAA6D6F31E9D9B3ACF3" id="181">
+      <title>电子数字资源平台</title>
+    </bookmark>
+    <bookmark href="https://www.163.com/dy/article/G640049T05463EXM.html" id="182">
+      <title>学了三年Python，这些网站让我相见恨晚，快来一起见识一下|python|字符串|github|编程|算法_网易订阅</title>
+    </bookmark>
+    <bookmark href="https://www.xin3721.com/eschool/CSharpxin3721/" id="183">
+      <title>c# 2015 &amp; 2017 视频教程-xin3721自学网</title>
+    </bookmark>
+    <bookmark href="https://leetcode-cn.com/" id="184">
+      <title>力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_44623941/category_9751339.html?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=c#%E9%A2%98&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~blog~sobaiduweb~default-1-category_9751339.html.nonecase" id="185">
+      <title>(3条消息) C#经典100题_轻描丶淡写的美的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_30444105/article/details/97013837?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161728782116780262515886%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=161728782116780262515886&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~blog~baidu_landing_v2~default-2-97013837.nonecase&amp;utm_term=c%23%E9%A2%98" id="186">
+      <title>(3条消息) C#题目及答案（2）_weixin_30444105的博客-CSDN博客_c#题目</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_45444821/category_9301027.html" id="187">
+      <title>(3条消息) C#编程高级练习_景越c#经典编程题库(csharp programming training)-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/david_520042/article/details/6026447" id="188">
+      <title>(3条消息) C#中return语句的使用方法_德仔-CSDN博客_c#中return</title>
+    </bookmark>
+    <bookmark href="https://www.csdn.net/tags/MtjaMg2sOTctYmxvZwO0O0OO0O0O.html" id="189">
+      <title>(3条消息) c#练习题12 - CSDN</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/iteye_4537/article/details/82202644?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&amp;dist_request_id=1328769.9992.16173435776961295&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control" id="190">
+      <title>(3条消息) 《C#程序设计基础》习题库程序_数据库天地-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/alayeshi/article/details/50131625?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&amp;dist_request_id=&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control" id="191">
+      <title>(3条消息) c#的构造函数及构造函数的调用_alayeshi的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_30847939/article/details/97577798?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-1&amp;spm=1001.2101.3001.4242" id="192">
+      <title>[C# 基础知识系列]专题七: 泛型深入理解(一)_weixin_30847939的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://codechina.csdn.net/explore" id="193">
+      <title>项目 · 探索 · CODE CHINA</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/badaaasss/article/details/86129393" id="194">
+      <title>Vue开源项目汇总(史上最全)_badaaasss的专栏-CSDN博客_vue项目</title>
+    </bookmark>
+    <bookmark href="https://zhuanlan.zhihu.com/p/53680918" id="195">
+      <title>ESLint 工作原理探讨 - 知乎</title>
+    </bookmark>
+    <bookmark href="https://wangxiaoting.blog.csdn.net/article/details/86625718?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&amp;dist_request_id=&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control" id="196">
+      <title>适合初学者练手的vue小项目（附github源码）_祈澈菇凉-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/deepalley/p/10463624.html" id="197">
+      <title>100道C#面试题（.net开发人员必备） - 八英里 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/xjzh/p/11021893.html" id="198">
+      <title>C#面试题整理（带答案） - 心静则欢 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://wenku.baidu.com/view/506714e02f60ddccda38a0ff.html" id="199">
+      <title>C#高级复习上(含答案) - 百度文库</title>
+    </bookmark>
+    <bookmark href="http://www.51aspx.com/CodeList/0!0!0!0!0!0!0!0!0!0!0!0!0i4i0/3" id="200">
+      <title>源码筛选,Asp.net源码|- 51Aspx.com</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/MOY37RQW1JarN33BgZk/article/details/106152351?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&amp;dist_request_id=&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control" id="201">
+      <title>20 个前端练手项目合集，个个都“吊炸天”！_实验楼-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/yinlong1991/p/3754846.html" id="202">
+      <title>2048 控制台版(C#) - SeeMore - 博客园</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_30871293/article/details/96996496" id="203">
+      <title>初学C#--一个简单的银行系统模拟_weixin_30871293的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161811855816780366516616%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=161811855816780366516616&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-104870999.pc_search_result_hbase_insert&amp;utm_term=vue" id="204">
+      <title>vue全套教程(实操)_贝西奇谈-CSDN博客_vue教程</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/huangjianfeng21/article/details/92043800?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vue&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-92043800.pc_search_result_hbase_insert" id="205">
+      <title>vue框架简介_huangjianfeng21的博客-CSDN博客_vue框架</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_41134008/article/details/105831286?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vue&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-105831286.pc_search_result_hbase_insert" id="206">
+      <title>Vue——学习第一天_qq_41134008的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/chinahuyong/article/details/60867323?utm_term=c#vue%E9%A1%B9%E7%9B%AE&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-60867323&amp;spm=3001.4430" id="207">
+      <title>Vue常用经典开源项目汇总参考-海量_.NET快速开发框架-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/p/74c9a8047230" id="208">
+      <title>从壹开始前后端分离 [ Vue2.0+.NET Core2.1] 二十二║Vue实战：个人博客第一版 - 简书</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/lyj/archive/2008/10/30/1323099.html" id="209">
+      <title>NHibernate之旅系列文章导航 - 李永京 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/lyj/archive/2008/03/25/1119671.html" id="210">
+      <title>LINQ体验系列文章导航 - 李永京 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/abcdwxc/archive/2007/10/30/942834.html" id="211">
+      <title>C#设计模式(23种设计模式) - 王晓成 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/yejianyun1/article/details/48469171" id="212">
+      <title>(1条消息) NHibernate从入门到精通系列(3)——第一个NHibernate应用程序_兰叶春葳蕤，桂华秋皎洁-CSDN博客</title>
+    </bookmark>
+  </folder>
+  <folder id="14">
+    <title>临时</title>
+    <bookmark href="https://www.cnblogs.com/5201314m/p/12323103.html" id="213">
+      <title>使用iframe实现预览PDF文件，或是实现嵌套一个页面 - 苏小落 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/gaofz/p/11995001.html" id="214">
+      <title>Vue + element控制鼠标右键菜单 - 浅笑心柔-Gao - 博客园</title>
+    </bookmark>
+    <bookmark href="https://down.52pojie.cn/" id="215">
+      <title>爱盘 - 最新的在线破解工具包</title>
+    </bookmark>
+    <bookmark href="https://www.zhihu.com/question/32225726" id="216">
+      <title>有哪些好玩的免费的API接口? - 知乎</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/cuk5239/article/details/107697295" id="217">
+      <title>(6条消息) vue markdown_Vue的强大Markdown组件_cuk5239的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/p/aca26ec75ec3" id="218">
+      <title>Vue中使用markdown - 简书</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/guoqing2016/article/details/93641636" id="219">
+      <title>(6条消息) css 背景图片自适应属性整理_guoqing的博客-CSDN博客_背景图片自适应</title>
+    </bookmark>
+    <bookmark href="https://www.5axxw.com/questions/content/nsd3mq" id="220">
+      <title>如何在VUE3中使用Vue.prototype或全局变量？ - 我爱学习网</title>
+    </bookmark>
+    <bookmark href="https://www.w3cplus.com/blog/tags/524.html" id="221">
+      <title>GSAP_入门 精通 教程_W3cplus</title>
+    </bookmark>
+    <bookmark href="https://zhuanlan.zhihu.com/p/306594318" id="222">
+      <title>Vue3.0源码解读 - 渲染系统（一） - 知乎</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_20617983/article/details/81171158" id="223">
+      <title>(6条消息) html前端命名规则_小白博客-CSDN博客_前端命名规则</title>
+    </bookmark>
+    <bookmark href="http://www.form-create.com/v3/guide/" id="224">
+      <title>介绍 | form-create</title>
+    </bookmark>
+    <bookmark href="https://gitee.com/lwj/flow?_from=gitee_search" id="225">
+      <title>flowable: 企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3&amp;Antd，Vben） 后端程序是http://47.106.196.177:8100 前端程序是http://47.106.196.177:8200</title>
+    </bookmark>
+    <bookmark href="https://www.sj33.cn/digital/wysj/202012/55462.html" id="226">
+      <title>30个漂亮的后台管理系统界面设计 - 设计之家</title>
+    </bookmark>
+    <bookmark href="https://mrhj.gitee.io/form-generator/#/" id="227">
+      <title>form-generator</title>
+    </bookmark>
+    <bookmark href="https://demos.creative-tim.com/muse-vue-ant-design-dashboard/?_ga=2.115567750.1881978375.1641870893-1932136235.1634996445#/tables" id="228">
+      <title>Muse Vue Ant Design Dashboard - by Creative Tim</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/lzj2504476514/article/details/119299864" id="229">
+      <title>(23条消息) yarn : 无法加载文件 C:\Users\Admin\AppData\Roaming\npm\yarn.ps1,因为在此系统因为在此系统上禁止运行脚本_lzj2504476514的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/p/2f6b7e1631bb" id="230">
+      <title>mock制作假数据 - 简书</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_41374651/article/details/120414003" id="231">
+      <title>(24条消息) 基于antd-vue Table组件的二次封装_痴心欲的博客-CSDN博客_antdv table封装</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_44593720/article/details/116127350" id="232">
+      <title>(24条消息) Vue3-封装table组件_我是我-CSDN博客_vue3 表格组件</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/marendu/article/details/106288627" id="233">
+      <title>(24条消息) vue2到vue3中插槽slot变化详解---从slot，slot-scope到v-slot的变化_marendu的博客-CSDN博客_slot-scope vue3</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_17585545/article/details/112974410" id="234">
+      <title>(24条消息) Spring Cloud 微服务总体架构图_精致技术-CSDN博客_springcloud架构</title>
+    </bookmark>
+    <bookmark href="http://www.ttlsa.com/linux/alpha-beta-rc/" id="235">
+      <title>alpha、beta、rc各版本区别 – 运维生存时间</title>
+    </bookmark>
+    <bookmark href="https://cloud.tencent.com/developer/article/1790495" id="236">
+      <title>《vue3+ts+element-plus 后台管理系统系列五》之 标签栏导航(TagsView) - 云+社区 - 腾讯云</title>
+    </bookmark>
+    <bookmark href="http://caibaojian.com/vuepress/guide/" id="237">
+      <title>VuePress介绍 - VuePress中文网</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_43613849/article/details/120262509" id="238">
+      <title>(24条消息) vue3中setup的两个参数和具名插槽_Doe的博客-CSDN博客_setup中的solt</title>
+    </bookmark>
+    <bookmark href="https://www.freesion.com/article/1338538278/" id="239">
+      <title>RuoYi(若依)前后端分离版本，windows下部署（nginx） - 灰信网（软件开发博客聚合）</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_42762089/article/details/103376421" id="240">
+      <title>(25条消息) js中的数组拷贝（浅拷贝，深拷贝）_王俊的博客-CSDN博客_js复制数组</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/xyyou/p/12037718.html" id="241">
+      <title>js中的filter方法和map方法 - 奇异宝 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/109363303" id="242">
+      <title>(5条消息) 若依微服务版手把手教你本地搭建环境并运行前后端项目_BADAO_LIUMANG_QIZHI的博客-CSDN博客_若依微服务</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/gunelark/p/8492468.html" id="243">
+      <title>Vue中的watch与computed - gunelark - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/love314159/p/13852101.html" id="244">
+      <title>Vue&lt;主题色修改&gt; - 风吹麦浪打 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://www.php.cn/js-tutorial-392526.html" id="245">
+      <title>关于vue项目工具文件utils.js使用的代码分享-js教程-PHP中文网</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/m0_49714202/article/details/122962348" id="246">
+      <title>(25条消息) vscode中函数折叠和展开 快捷键（最新最正确）_m0_49714202的博客-CSDN博客_vscode收起所有函数</title>
+    </bookmark>
+    <bookmark href="https://m.php.cn/article/471620.html" id="247">
+      <title>js怎么取整数-js教程-PHP中文网</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/Java_Fly1/article/details/118574689" id="248">
+      <title>(25条消息) LogicFlow从新手到入门_Java_Fly1的博客-CSDN博客_logicflow</title>
+    </bookmark>
+    <bookmark href="https://cn.pornhub.com/" id="249">
+      <title>免费色情视频及性爱影片 – A片，X级，色情片分享网站 | Pornhub</title>
+    </bookmark>
+    <bookmark href="https://www.thumbzilla.com/?utm_source=pornhub&amp;utm_medium=network-bar&amp;utm_campaign=pornhub-networkbar" id="250">
+      <title>Free Sex Movies &amp; Porn Videos Online - Thumbzilla</title>
+    </bookmark>
+    <bookmark href="https://www.youporn.com/?utm_source=pornhub&amp;utm_medium=network-bar&amp;utm_campaign=pornhub-networkbar" id="251">
+      <title>Free Porn Videos - HD Porno Tube &amp; XXX Sex Videos | YouPorn</title>
+    </bookmark>
+    <bookmark href="https://www.redtube.com/?utm_source=pornhub&amp;utm_medium=network-bar&amp;utm_campaign=pornhub-networkbar" id="252">
+      <title>Free Porn Sex Videos - Redtube - XXX Movies - Home of Videos Porno</title>
+    </bookmark>
+    <bookmark href="https://www.tube8.com/?utm_source=pornhub&amp;utm_medium=network-bar&amp;utm_campaign=pornhub-networkbar" id="253">
+      <title>Free sex videos, Sex tube, Free porn movies - Tube8.com</title>
+    </bookmark>
+  </folder>
+  <folder id="15">
+    <title>已导入 (2)</title>
+    <bookmark href="https://blog.csdn.net/xhmico/article/details/125197747" id="254">
+      <title>(33条消息) Linux-安装MySQL（详细教程）_多加点辣也没关系的博客-CSDN博客_linux安装mysql</title>
+    </bookmark>
+    <bookmark href="https://www.ddnx.com/zhichang/827178.html" id="255">
+      <title>关于软件工程师的工作简历范文</title>
+    </bookmark>
+    <bookmark href="https://www.nowcoder.com/practice/8f3df50d2b9043208c5eed283d1d4da6?tpId=37&amp;tqId=21228&amp;rp=1&amp;ru=/exam/oj/ta&amp;qru=/exam/oj/ta&amp;sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&amp;difficulty=undefined&amp;judgeStatus=undefined&amp;tags=&amp;title=" id="256">
+      <title>进制转换_牛客题霸_牛客网</title>
+    </bookmark>
+    <bookmark href="https://www.nowcoder.com/test/27976983/summary#question" id="257">
+      <title>校招笔试真题_C++工程师、golang工程师_牛客网</title>
+    </bookmark>
+    <bookmark href="https://ac.nowcoder.com/acm/contest/5657/J?&amp;headNav=acm" id="258">
+      <title>J-字符串排序(3)_OJ在线编程常见输入输出练习场</title>
+    </bookmark>
+    <bookmark href="https://ac.nowcoder.com/acm/contest/5657#question" id="259">
+      <title>牛客竞赛_ACM/NOI/CSP/CCPC/ICPC算法编程高难度练习赛_牛客竞赛OJ</title>
+    </bookmark>
+    <bookmark href="https://zhuanlan.zhihu.com/p/340122272" id="260">
+      <title>卡牛科技软件测试实习面试题 - 知乎</title>
+    </bookmark>
+    <bookmark href="https://zhuanlan.zhihu.com/p/53302593" id="261">
+      <title>互联网校招SQL笔试经典50题及答案解析 - 知乎</title>
+    </bookmark>
+    <bookmark href="https://bbs.csdn.net/topics/340126193" id="262">
+      <title>sql面试难题-CSDN社区</title>
+    </bookmark>
+    <bookmark href="https://www.lmlphp.com/" id="263">
+      <title>可爱滴WEB开发框架 - LMLPHP framework</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>.net</title>
+    <bookmark href="https://www.cnblogs.com/wujy/p/3264475.html" id="264">
+      <title>ASP.NET基础之HttpContext学习 - 踏浪帅 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://docs.microsoft.com/en-us/?redirectedfrom=MSDN" id="265">
+      <title>开发人员工具，技术文档和编码示例| 微软文档</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/190bkk9s(v=vs.100)" id="17">
+    <title>.NET Framework核心开发| 微软文档</title>
+  </bookmark>
+  <folder id="18">
+    <title>Vue</title>
+    <bookmark href="https://blog.csdn.net/qq_41134008/article/details/105831286?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vue&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-7-105831286.pc_search_result_hbase_insert" id="266">
+      <title>(5条消息) Vue——学习第一天_qq_41134008的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/badaaasss/article/details/86129393" id="267">
+      <title>(5条消息) Vue开源项目汇总(史上最全)_badaaasss的专栏-CSDN博客_vue 项目</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161811855816780366516616%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=161811855816780366516616&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-104870999.pc_search_result_hbase_insert&amp;utm_term=vue" id="268">
+      <title>(5条消息) vue全套教程(实操)_贝西奇谈-CSDN博客_vue教程</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/huangjianfeng21/article/details/92043800?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=vue&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-92043800.pc_search_result_hbase_insert" id="269">
+      <title>(5条消息) vue框架简介_huangjianfeng21的博客-CSDN博客_vue框架</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/chinahuyong/article/details/60867323?utm_term=c#vue%E9%A1%B9%E7%9B%AE&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-60867323&amp;spm=3001.4430" id="270">
+      <title>(5条消息) Vue常用经典开源项目汇总参考-海量_.NET快速开发框架-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/p/74c9a8047230" id="271">
+      <title>从壹开始前后端分离 [ Vue2.0+.NET Core2.1] 二十二║Vue实战：个人博客第一版 - 简书</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_40976321/article/details/95933818" id="272">
+      <title>(5条消息) vue-cli入门项目实战(超详细)_Muchen灬-CSDN博客_vuecli开发教程</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/video/BV1iE411C7LJ?p=3&amp;spm_id_from=pageDriver" id="273">
+      <title>Vue项目脚手架架搭建-vue-cli4.0的脚手架_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/c/4b6015639615?utm_campaign=haruki" id="274">
+      <title>vue 全家桶 + Element UI 实战 - 专题 - 简书</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/video/BV1HA411p7aA?p=18" id="275">
+      <title>SpringBoot+Vue前后端分离项目实战-【前后端项目篇-强烈建议学习】Java项目-Vue项目-后台管理系统-权限管理-Web前端项目开发-Vue.js_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://v2-preview-ant-design-pro.netlify.app/dashboard/analysis?colorWeak=false&amp;primaryColor=%2352C41A" id="19">
+    <title>分析页 - Ant Design Pro</title>
+  </bookmark>
+  <bookmark href="https://preview.pro.ant.design/dashboard/analysis" id="20">
+    <title>分析页 - Ant Design Pro</title>
+  </bookmark>
+  <bookmark href="https://demos.creative-tim.com/material-dashboard-react/#/dashboard" id="21">
+    <title>Material Dashboard 2 React</title>
+  </bookmark>
+  <bookmark href="https://chu1204505056.gitee.io/admin-plus/?hmsr=github#/vab/calendar" id="22">
+    <title>日历 - Vue Admin Plus</title>
+  </bookmark>
+  <bookmark href="http://rffanlab.com/archives/category/c" id="23">
+    <title>C#-RffanLAB|Rffan实验室</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/DiDi_Tech/article/details/114109324" id="24">
+    <title>(33条消息) 滴滴开源 LogicFlow：专注流程可视化的前端框架_滴滴技术的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/Jet_Lover/article/details/115637795" id="25">
+    <title>(34条消息) 前端面试题（附答案）完善中……_Jet_closer_burning的博客-CSDN博客_前端面试题</title>
+  </bookmark>
+  <bookmark href="https://www.smashingmagazine.com/2022/04/breadcrumbs-ux-design/" id="26">
+    <title>Designing A Perfect Breadcrumbs UX — Smashing Magazine</title>
+  </bookmark>
+  <bookmark href="https://wangdoc.com/javascript/basic/introduction" id="27">
+    <title>导论 - JavaScript 教程 - 网道</title>
+  </bookmark>
+  <bookmark href="https://my.justhost.asia/paymonitor/monitor/38287780?transaction_id=QC14849065461828&amp;order_id=38287780-156683" id="28">
+    <title>客户区域 | justhost.asia</title>
+  </bookmark>
+  <bookmark href="https://www.liuzhanwu.com/" id="29">
+    <title>国外主机测评-专注分享国外便宜VPS - 外贸主机 - 独立服务器 - 测评及优惠码</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/387378721" id="30">
+    <title>高并发微服务网关设计与实现 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/xgangzai/article/details/122631993?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167109222216782390588671%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=167109222216782390588671&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-122631993-null-null.142^v68^control,201^v4^add_ask,213^v2^t3_esquery_v2&amp;utm_term=nestjs%20%E7%BD%91%E5%85%B3%E8%BD%AC%E5%8F%91%E8%AF%B7%E6%B1%82&amp;spm=1018.2226.3001.4187" id="31">
+    <title>(43条消息) 腾讯云十亿级 Node.js 网关的架构设计与工程实践_傲娇的koala的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://www.jianshu.com/p/c2b75ff24c33" id="32">
+    <title>Markdown代码块支持的语言 - 简书</title>
+  </bookmark>
+  <bookmark href="https://cloud.tencent.com/developer/article/1777576" id="33">
+    <title>[原创]Vuepress SEO优化教程(附完整方法) - 腾讯云开发者社区-腾讯云</title>
+  </bookmark>
+  <bookmark href="https://taixingyiji.com/" id="34">
+    <title>Lake&apos;s Blog</title>
+  </bookmark>
+  <bookmark href="http://note.q123q.cn/db/sql/1/1install.html#windows-%E9%85%8D%E7%BD%AE" id="35">
+    <title>✔️ 准备 | 笔记</title>
+  </bookmark>
+  <bookmark href="https://sourceforge.net/projects/redshift.mirror/" id="36">
+    <title>Redshift download | SourceForge.net</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/dansuwei1234/article/details/72123640" id="37">
+    <title>(58条消息) 分针网—IT教育： 关于Node.js的__dirname，__filename，process.cwd()，./文件路径的一些坑_分针网的博客-CSDN博客_nodejs __dirname 报错</title>
+  </bookmark>
+  <bookmark href="https://github.com/lenve/javadoc" id="38">
+    <title>lenve/javadoc: Java 企业级项目需求文档</title>
+  </bookmark>
+  <bookmark href="https://www.imangodoc.com/61805.html" id="39">
+    <title>吉拉积压 - 芒果文档</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/qq_16268979/article/details/123707823" id="40">
+    <title>(74条消息) Spring事务失效常见场景_spring事务失效场景_啊荻～的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="http://c.biancheng.net/view/4261.html" id="41">
+    <title>Spring Bean的生命周期</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/J080624/article/details/79856218" id="42">
+    <title>(74条消息) Spring中bean的初始化和销毁几种实现方式详解_bean实现销毁方法_程序员小默的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/yuntianxia111/article/details/124972115" id="43">
+    <title>(74条消息) Spring- @Component和@ComponentScan注解用法介绍和注意事项_echoes2的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/longzhutengyue/article/details/95179080" id="44">
+    <title>(74条消息) Spring中Bean的单例、多例_spring bean 单例_程序员瓜叔的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="http://www.qb5200.com/article/493499.html" id="45">
+    <title>Spring Bean的单例和多例(IT技术)</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/isea533/article/details/118513868" id="46">
+    <title>(74条消息) Spring Cloud Alibaba 本地调试方案_springcloud调试_isea533的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/weixin_33835103/article/details/92194731" id="47">
+    <title>(74条消息) 多个线程并发执行完成后再执行主线程-java（有点内容版）_weixin_33835103的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/336516683" id="48">
+    <title>java多线程--主线程等待子线程执行完再执行 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/a745233700/article/details/82861490" id="49">
+    <title>(74条消息) Java基础篇：抽象类与接口_接口和抽象类_张维鹏的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/a6470831/article/details/124677896?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167946912116800192230763%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=167946912116800192230763&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124677896-null-null.142^v76^insert_down38,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=seata&amp;spm=1018.2226.3001.4187" id="50">
+    <title>(74条消息) 【微服务】（十六）—— 分布式事务Seata_seata data-source-proxy-mode_机智兵的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/MinggeQingchun/article/details/121395875" id="51">
+    <title>(74条消息) Java--javaBean、vo、entity、domain和pojo_domain vo_MinggeQingchun的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/weixin_40461281/article/details/126593771" id="52">
+    <title>(76条消息) RuoYi-Vue-Plus 与 RuoYi-Cloud-Plus 高端进阶 源码分析 系列教程_疯狂的狮子Li的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/Michelle_Zhong/article/details/127566997" id="53">
+    <title>(76条消息) 【RuoYi-Cloud-Plus】学习笔记 05 - Spring Cloud Gateway（一）关于配置文件参数_MichelleChung的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://www.4b3.com/ai-drawing-model?collection=15" id="54">
+    <title>AI绘画模型_AI模型资源下载-四比三</title>
+  </bookmark>
+  <bookmark href="https://www.acgbox.link/q/zaixianlifan" id="55">
+    <title>在线里番 - ACG盒子</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/152115647" id="56">
+    <title>错误码如何设计才合理？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://konachan.net/post/show/359246/2girls-akemi_homura-akuma_homura-black_hair-dress-" id="57">
+    <title>2girls akemi homura akuma homura black hair dress elbow gloves gloves kaname madoka long hair mahou shoujo madoka magica pink hair purple eyes sarena signed thighhighs ultimate madoka wings yellow eyes | konachan.net - Konachan.com Anime Wallpapers</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/zhangxin97/article/details/109511441" id="58">
+    <title>(58条消息) SqlSugar仓储类及其二级缓存_sqlsugar 缓存读写_驯鹿的熊猫人的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.51cto.com/wuhuacong/5268422" id="59">
+    <title>基于SqlSugar的数据库访问处理的封装，在.net6框架的Web API上开发应用_51CTO博客_sqlsugar封装基类</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/388239916" id="60">
+    <title>(28 条消息) 前端 React 单页应用项目太大，导致开发环境编译过慢，有什么解决思路么？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/shuang_waiwai/article/details/121500382?utm_relevant_index=1" id="61">
+    <title>数据库设计规范（详细）_网易测试开发猿的博客-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/weixin_43890049/article/details/119463862" id="62">
+    <title>【精选】微信扫码登录详细操作流程（微信公众平台开发）_微信公众号扫码登录-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://demos.creative-tim.com/material-dashboard-dark/examples/user.html" id="63">
+    <title>Material Dashboard Dark Edition by Creative Tim</title>
+  </bookmark>
+  <bookmark href="https://demos.creative-tim.com/material-dashboard/pages/dashboard.html" id="64">
+    <title>Material Dashboard 2 by Creative Tim</title>
+  </bookmark>
+  <bookmark href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo?tab=readme-ov-file#%E9%BB%91%E7%A7%91%E6%8A%80" id="65">
+    <title>GitHub - Wechat-ggGitHub/Awesome-GitHub-Repo: 收集整理 GitHub 上高质量、有趣的开源项目。</title>
+  </bookmark>
+  <bookmark href="https://bwh88.net/" id="66">
+    <title>企业设备上的大规模 VPS 托管 - BandwagonHost VPS</title>
+  </bookmark>
+  <bookmark href="https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC/251b49c00bb082970f6b136215b9a69c223e0ae4" id="67">
+    <title>V2Ray一键安装脚本 · 233boy/v2ray Wiki</title>
+  </bookmark>
+  <bookmark href="https://www.noisedh.cn/" id="68">
+    <title>Noise导航 &amp; 收录值得珍藏的网站</title>
+  </bookmark>
+  <bookmark href="https://github.com/aoaostar/legado" id="69">
+    <title>aoaostar/legado: 阅读APP书源</title>
+  </bookmark>
+  <bookmark href="https://github.com/GitHubDaily/GitHubDaily" id="70">
+    <title>GitHubDaily/GitHubDaily: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</title>
+  </bookmark>
+  <bookmark href="https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B" id="71">
+    <title>V2Ray搭建详细图文教程 · 233boy/v2ray Wiki · GitHub</title>
+  </bookmark>
+  <bookmark href="https://post.smzdm.com/p/awzpd9lp/" id="72">
+    <title>IPv6动态域名解析的实现——用自己的域名直连家中NAS_NAS存储_什么值得买</title>
+  </bookmark>
+  <bookmark href="https://github.com/GitHubDaily/GitHubDaily?tab=readme-ov-file#%E4%B9%A6%E7%B1%8D%E6%95%99%E7%A8%8B" id="73">
+    <title>GitHub - GitHubDaily/GitHubDaily: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</title>
+  </bookmark>
+  <bookmark href="https://www.checklist.design/" id="74">
+    <title>Checklist Design - A collection of the best design practices.</title>
+  </bookmark>
+  <bookmark href="https://github.com/LC044/WeChatMsg" id="75">
+    <title>GitHub - LC044/WeChatMsg: 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/shuaimeng/p/11338620.html" id="76">
+    <title>IOC+EF+Core项目搭建EF封装(一) - 世人皆萌 - 博客园</title>
+  </bookmark>
+  <bookmark href="https://atlassc.net/" id="77">
+    <title>ShinChven&apos;s Blog</title>
+  </bookmark>
+  <bookmark href="https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%88%b7%e6%96%b0%e7%99%bb%e5%bd%95" id="78">
+    <title>网易云音乐 NodeJS 版 API</title>
+  </bookmark>
+  <bookmark href="https://5sim.net/" id="79">
+    <title>Online SMS verification service | Receive SMS online</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/665371578" id="80">
+    <title>(1 封私信 / 8 条消息) 为什么.net支持不了高并发？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/665634085" id="81">
+    <title>(2 封私信 / 36 条消息) 广西民警救人溺亡后续怎么样了？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/665313049/answer/3609256568?utm_psn=1812599561551740928" id="82">
+    <title>(2 封私信 / 36 条消息) 广西一女子假意轻生导致施救民警遇害溺亡事件，对社会影响有多大？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://mp.weixin.qq.com/s?__biz=MzkwMDUyMzcyMw==&amp;mid=2247484213&amp;idx=1&amp;sn=50e83bd4de2923c522545efc28d3f2f6&amp;chksm=c18e3d5e042cf268df03f9e746f4046baab9a5f8ca415b1f4781b5596b8d2aff6dca7026d2fa#rd" id="83">
+    <title>我有三不去，青岛不去，郑州不去，保定不去</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/412271127" id="84">
+    <title>(2 封私信 / 36 条消息) 艺术天赋有没有可能流失掉？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/subendong/p/13196987.html" id="85">
+    <title>windows + jenkins + .net core + iis自动化部署新手入门 - 屌丝大叔的笔记 - 博客园</title>
+  </bookmark>
+  <bookmark href="https://www.cnblogs.com/wumiaomiao/p/16858173.html" id="86">
+    <title>.NET6+GitLab+Jenkins在Windows上实现CI/CD - WuMiaoMiao - 博客园</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/20030360" id="87">
+    <title>(2 封私信 / 80 条消息) 最让你震惊的网站有哪些？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://geekdaxue.co/read/southerly@web/monaco-editor" id="88">
+    <title>monaco-editor - vue3+vite 使用monaco-editor 编辑器 - 《学习 Web 前端》 - 极客文档</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/156799430" id="89">
+    <title>超级可爱的猫咪表情包，萌萌哒～(400+张) - 知乎</title>
+  </bookmark>
+  <folder id="90">
+    <title>新建文件夹</title>
+    <bookmark href="https://komiic.com/comic/533" id="276">
+      <title>魔都精兵的奴隸 | Komiic漫畫</title>
+    </bookmark>
+    <bookmark href="https://18comic.vip/albums/meiman" id="277">
+      <title>最新的English Manga Comics - 禁漫天堂</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file" id="91">
+    <title>milanm/DotNet-Developer-Roadmap: The comprehensive .NET Developer Roadmap by seniority level.</title>
+  </bookmark>
+  <bookmark href="https://www.cosfan.cc/" id="92">
+    <title>CosFan - Cosplay爱好者乐园</title>
+  </bookmark>
+  <bookmark href="https://post.smzdm.com/p/a992p6e0/" id="93">
+    <title>打造最强家用NAS之私人书库搭建教程_NAS存储_什么值得买</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/4078540632" id="94">
+    <title>(2 封私信 / 80 条消息) C#应该学什么? - 知乎</title>
+  </bookmark>
+  <bookmark href="https://github.com/linuxserver/docker-grocy" id="95">
+    <title>GitHub - linuxserver/docker-grocy: A container for grocy - the ERP application for your kitchen https://grocy.info</title>
+  </bookmark>
+  <bookmark href="https://ngabbs.com/?rand=730" id="96">
+    <title>NGA玩家社区</title>
+  </bookmark>
+  <bookmark href="https://github.com/coracoo/awesome_docker_cn" id="97">
+    <title>GitHub - coracoo/awesome_docker_cn: 上百款可docker部署的项目，包含项目地址、项目部署教程等。</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/2680216470/answer/20150386981" id="98">
+    <title>(3 封私信 / 80 条消息) 如何看待南昌工学院一对情侣因为感情原因，男方对女方痛下杀手事件？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.ipanda.com/?spm=C98970.PjnbSKo7xEQF.EHoZuXPR90z6.43" id="99">
+    <title>熊猫频道_央视网</title>
+  </bookmark>
+  <bookmark href="https://sharkle.com/" id="100">
+    <title>Sharkle | Generator of random awesomeness</title>
+  </bookmark>
+  <bookmark href="https://www.6pian.cn/dongman.html" id="101">
+    <title>图片动漫化在线处理软件-照片动漫风格化-卡通生成器-牛片</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/531866239" id="102">
+    <title>(7 封私信 / 2 条消息) 为什么现在很多年轻人不愿意听过来人的建议？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://alphacoders.com/genshin-impact-wallpapers" id="103">
+    <title>[11300+] Genshin Impact Wallpapers</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/9079538735" id="104">
+    <title>(9 封私信 / 42 条消息) 一人一道菜，年夜饭的必备菜是啥？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.infrost.site/2024/07/01/%E3%80%90%E5%B0%8F%E7%99%BD%E4%B9%9F%E8%83%BD%E4%BC%9A%E7%9A%84%E3%80%91%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%AE%AD%E7%BB%83%E4%B8%80%E4%B8%AAAI%E6%A8%A1%E5%9E%8B/" id="105">
+    <title>【小白也能会的】通过微信聊天记录训练一个AI模型 - Kevin&apos;s Blog</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/12715189121" id="106">
+    <title>(9 封私信 / 18 条消息) 湛江一高中就「禁止学生自带面包」致歉，如何看待学校的这个规定？学校教育与管理的度在哪里？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/628728219" id="107">
+    <title>(10 封私信 / 34 条消息) 能推荐一部你看了三遍以上的电视剧吗？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/search?type=content&amp;q=%E8%8D%89%E5%9D%AA%E5%A9%9A%E7%A4%BC" id="108">
+    <title>(10 封私信 / 56 条消息) 草坪婚礼 - 搜索结果 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.hunliji.com/" id="109">
+    <title>婚纱摄影_婚礼策划_婚庆_一站式结婚服务【婚礼纪】</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/667537804" id="110">
+    <title>(12 封私信 / 80 条消息) 《凡人歌》月薪 2 万的沈琳为什么愿意卖卤肉？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://tianji.ymt.com/#/" id="111">
+    <title>天机农业大数据系统</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/61616681" id="112">
+    <title>(18 封私信 / 80 条消息) 你不经意间做出过什么惊为天人的美食？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://gitcode.com/gh_mirrors/gu/guitar-tabs-editor" id="113">
+    <title>项目首页 - guitar-tabs-editor:🎸 A portable guitar tabs editor 🎼 based on react.js, inspired by Markdown and LaTex. - GitCode</title>
+  </bookmark>
+  <bookmark href="https://github.com/JideGuru/FlutterFoodybite" id="114">
+    <title>GitHub - JideGuru/FlutterFoodybite: Flutter representation of a Restaurant app UI.</title>
+  </bookmark>
+  <bookmark href="https://github.com/TWO-ICE/Awesome-NAS-Docker?tab=readme-ov-file" id="115">
+    <title>GitHub - TWO-ICE/Awesome-NAS-Docker: 一个专注于 NAS 和 Docker 部署的开源项目合集，覆盖 AI、开发、数据管理、多媒体、运维等场景，提供一键式部署指南和实用教程，让 NAS 变身全能生产力工具！</title>
+  </bookmark>
+  <bookmark href="https://sspai.com/post/79100" id="116">
+    <title>搭建属于自己的离线漫画库：我为什么推荐你试试 Komga - 少数派</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/1897410334978990365" id="117">
+    <title>(22 封私信 / 80 条消息) 浏览器书签同步神器！自建Elysian保姆级教程 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://semver.org/lang/zh-CN/" id="118">
+    <title>语义化版本 2.0.0 | Semantic Versioning</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/21175572" id="119">
+    <title>(23 封私信 / 80 条消息) Windows 下有什么用过之后就离不开的冷门软件？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/u012094427/article/details/148138030" id="120">
+    <title>你的代码库还在当“黑箱”？OpenDeepWiki带你玩转AI自动化文档与知识图谱！（详细拆解+实践教程）-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://opendeep.wiki/ThreeMammals/Ocelot/getting-started" id="121">
+    <title>入门指南 | ThreeMammals/Ocelot - KoalaWiki</title>
+  </bookmark>
+  <bookmark href="https://cn-sec.com/archives/2674782.html" id="122">
+    <title>【2024HW】|3-红队 | 外网快速打点方法&amp;技巧总结 | CN-SEC 中文网</title>
+  </bookmark>
+  <bookmark href="https://github.com/penhandev/AutoAiVPN" id="123">
+    <title>penhandev/AutoAiVPN：免费使用这些 v2ray 配置</title>
+  </bookmark>
+  <bookmark href="https://github.com/readest/readest" id="124">
+    <title>readest/readest: Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/33182857" id="125">
+    <title>(41 封私信 / 82 条消息) 为什么很多人说餐饮不好干？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/21696230" id="126">
+    <title>(42 封私信 / 82 条消息) 你是明白了哪几个基本原理之后而厨艺大增的？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/444554664" id="127">
+    <title>(44 封私信 / 82 条消息) 如何看待摄影师纷纷开设摄影课？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/443604419" id="128">
+    <title>(44 封私信 / 82 条消息) 如何用最少的钱打扮自己? - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/287319745" id="129">
+    <title>(45 封私信 / 82 条消息) 你的家里有什么做饭小诀窍？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/38525075" id="130">
+    <title>(46 封私信 / 8 条消息) 经验丰富的厨师有哪些日常做饭技巧？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/625604497/answer/3328121378" id="131">
+    <title>(48 封私信 / 40 条消息) 遗憾怎么写最刀人？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/263942550/answer/1968084473435387493" id="132">
+    <title>(49 封私信 / 58 条消息) 你见过哪些高超的套话技巧？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/333135371" id="133">
+    <title>有什么单机游戏可以玩得时间长一点？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/1975144793609879746" id="134">
+    <title>(55 封私信 / 82 条消息) 为什么我们穿的都是塑料？ - 知乎</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>移动设备书签</title>
+  <bookmark href="http://acgheaven.org/archives/5125" id="135">
+    <title>[画师合集][オクモト悠太][61本/5.06G/中/日/无修][度盘] – 绅士天堂</title>
+  </bookmark>
+</folder>
+</xbel>
