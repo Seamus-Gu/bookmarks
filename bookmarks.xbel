@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :559: for Floccus bookmark sync browser extension -->
+<!--- highestId :560: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -29,6 +29,9 @@
       </bookmark>
       <bookmark href="https://jumpserver.where25.cn/luna/?_=1773115462922" id="555">
         <title>Web终端 - JumpServer 开源堡垒机</title>
+      </bookmark>
+      <bookmark href="https://docs.pi-hcm.com/" id="560">
+        <title>PIHCM项目文档</title>
       </bookmark>
       <bookmark href="https://ctil.atlassian.net/jira/for-you" id="556">
         <title>Jira</title>
