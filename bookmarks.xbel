@@ -274,15 +274,6 @@
         <title>HRIS.NET - HK-TEST2</title>
       </bookmark>
     </folder>
-    <folder id="306">
-      <title>堡垒机</title>
-      <bookmark href="http://172.16.2.11:10980/ui/#/profile/info" id="472">
-        <title>用户信息 - JumpServer 开源堡垒机</title>
-      </bookmark>
-      <bookmark href="https://jmshk.pi-hcm.com/core/auth/login/" id="473">
-        <title>JumpServer 开源堡垒机</title>
-      </bookmark>
-    </folder>
     <folder id="310">
       <title>CrystalJade</title>
       <bookmark href="http://hk-prd-sql2019/CORE/CrystalJade/HRIS.NET.UI/aspx/login.aspx" id="474">
