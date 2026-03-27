@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :574: for Floccus bookmark sync browser extension -->
+<!--- highestId :575: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1010,6 +1010,9 @@
       </folder>
     </folder>
   </folder>
+  <bookmark href="http://172.16.2.12:9000/user/login?redirect=/" id="575">
+    <title>APISIX Dashboard</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
