@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :580: for Floccus bookmark sync browser extension -->
+<!--- highestId :583: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -99,9 +99,6 @@
       <bookmark href="https://demos.creative-tim.com/material-dashboard-react/#/dashboard" id="21">
         <title>Material</title>
       </bookmark>
-      <bookmark href="https://m3.material.io/foundations/adaptive-design" id="580">
-        <title>Adaptive design – Material Design 3</title>
-      </bookmark>
     </folder>
     <folder id="149">
       <title>Icons</title>
@@ -116,6 +113,18 @@
       </bookmark>
       <bookmark href="https://pixels.market/" id="334">
         <title>Pixels</title>
+      </bookmark>
+    </folder>
+    <folder id="581">
+      <title>UI Rules</title>
+      <bookmark href="https://m3.material.io/foundations/adaptive-design" id="580">
+        <title>Adaptive design – Material Design 3</title>
+      </bookmark>
+      <bookmark href="https://carbondesignsystem.com/guidelines/content/overview/" id="582">
+        <title>Content – Carbon Design System</title>
+      </bookmark>
+      <bookmark href="https://developer.microsoft.com/en-us/fluentui#/get-started/web" id="583">
+        <title>Fluent UI - Get started - React</title>
       </bookmark>
     </folder>
   </folder>
