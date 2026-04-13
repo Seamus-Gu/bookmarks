@@ -96,6 +96,9 @@
       <bookmark href="https://element-plus-admin.cn/#/dashboard/analysis" id="579">
         <title>ElementAdmin</title>
       </bookmark>
+      <bookmark href="https://demos.creative-tim.com/material-dashboard-react/#/dashboard" id="21">
+        <title>Material</title>
+      </bookmark>
     </folder>
     <folder id="149">
       <title>Icons</title>
@@ -1366,9 +1369,6 @@
   </bookmark>
   <bookmark href="https://preview.pro.ant.design/dashboard/analysis" id="20">
     <title>分析页 - Ant Design Pro</title>
-  </bookmark>
-  <bookmark href="https://demos.creative-tim.com/material-dashboard-react/#/dashboard" id="21">
-    <title>Material Dashboard 2 React</title>
   </bookmark>
   <bookmark href="https://chu1204505056.gitee.io/admin-plus/?hmsr=github#/vab/calendar" id="22">
     <title>日历 - Vue Admin Plus</title>
