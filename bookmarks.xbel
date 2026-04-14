@@ -100,9 +100,6 @@
         <title>Material</title>
       </bookmark>
     </folder>
-    <bookmark href="https://ant.design/docs/spec/introduce-cn" id="360">
-      <title>Ant Design</title>
-    </bookmark>
     <folder id="149">
       <title>Icons</title>
       <bookmark href="https://www.iconfont.cn/" id="331">
@@ -120,6 +117,9 @@
     </folder>
     <folder id="581">
       <title>UI Rules</title>
+      <bookmark href="https://ant.design/docs/spec/introduce-cn" id="360">
+        <title>Ant Design</title>
+      </bookmark>
       <bookmark href="https://m3.material.io/foundations/adaptive-design" id="580">
         <title>Adaptive design – Material Design 3</title>
       </bookmark>
