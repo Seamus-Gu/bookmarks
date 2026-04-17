@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :584: for Floccus bookmark sync browser extension -->
+<!--- highestId :585: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -71,6 +71,12 @@
       </bookmark>
       <bookmark href="https://ai.csdn.net/chat/models?utm_source=cknow_pc_blogdetail" id="577">
         <title>C知道</title>
+      </bookmark>
+    </folder>
+    <folder id="585">
+      <title>Server</title>
+      <bookmark href="https://www.vpsor.cn/center/personal" id="414">
+        <title>硅云</title>
       </bookmark>
     </folder>
   </folder>
@@ -865,9 +871,6 @@
         </bookmark>
         <bookmark href="http://103.150.181.217:9001/" id="412">
           <title>MinIO</title>
-        </bookmark>
-        <bookmark href="https://www.vpsor.cn/center/personal" id="414">
-          <title>硅云</title>
         </bookmark>
         <bookmark href="https://devops.aliyun.com/workbench?_userId=6253e64dec85cdece21503b3&amp;timestamp=1677649937326&amp;mode=redirect&amp;sign=302f782708e55a76581c46a325efe08e" id="415">
           <title>云效 工作台</title>
