@@ -415,31 +415,10 @@
         <title>HRMS.NET - MSIG</title>
       </bookmark>
     </folder>
-    <folder id="279">
-      <title>CityFM</title>
-      <bookmark href="https://ipl-vm-hcm18/CityFM/Workforce-Web/" id="456">
-        <title>ipl-vm-hcm18/CityFM/Workforce-Web/</title>
-      </bookmark>
-      <folder id="457">
-        <title>Urban</title>
-        <bookmark href="http://ipl-vm-hcm_app/urban/iplhcm-web/index.html#/Dashboard" id="544">
-          <title>人力资源管理系统</title>
-        </bookmark>
-        <bookmark href="http://172.16.107.250:90/DevWebSite/Urban/HRIS.NET.UI/aspx/login.aspx" id="545">
-          <title>HRMS.NET - IPL Research Limited</title>
-        </bookmark>
-      </folder>
-    </folder>
     <folder id="283">
       <title>LHG</title>
       <bookmark href="http://ipl-vm-hcm_app/LHG_012/iplhcm-web/index.html#/Dashboard" id="458">
         <title>ipl-vm-hcm_app/LHG_012/iplhcm-web/index.html#/Dashboard</title>
-      </bookmark>
-    </folder>
-    <folder id="286">
-      <title>HOHCS</title>
-      <bookmark href="https://ipl-vm-core19.ctil.com/HOHCS/HRIS.NET.UI/aspx/homepage.aspx" id="460">
-        <title>HRMS.NET - IPL Research Limited</title>
       </bookmark>
     </folder>
     <folder id="304">
@@ -476,75 +455,6 @@
       </bookmark>
       <bookmark href="http://172.16.105.101/CORE/HK-TEST2/HRIS.NET.UI/aspx/homepage.aspx" id="471">
         <title>HRIS.NET - HK-TEST2</title>
-      </bookmark>
-    </folder>
-    <folder id="310">
-      <title>CrystalJade</title>
-      <bookmark href="http://hk-prd-sql2019/CORE/CrystalJade/HRIS.NET.UI/aspx/login.aspx" id="474">
-        <title>HRIS.NET - CrystalJade</title>
-      </bookmark>
-      <bookmark href="https://cj-uat.pi-hcm.com/dashboard" id="475">
-        <title>工作台</title>
-      </bookmark>
-      <bookmark href="https://cj-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="476">
-        <title>Swagger UI</title>
-      </bookmark>
-      <bookmark href="https://hrms-uat.crystaljade.com.hk/authorize/v1/login" id="477">
-        <title>客户 Crystal Jade HK</title>
-      </bookmark>
-    </folder>
-    <folder id="312">
-      <title>CityBase</title>
-      <bookmark href="https://citybase-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="478">
-        <title>Swagger UI</title>
-      </bookmark>
-      <bookmark href="https://citybase-uat.pi-hcm.com/authorize/v1/authorize?client_id=1&amp;response_type=code&amp;state=1750664591735&amp;code_challenge=aeTcCq5EyjnselBDmToojVrNwtAvBQKRnQU_t0XtE1Y&amp;code_challenge_method=S256&amp;redirect_uri=https://citybase-uat.pi-hcm.com&amp;from=aHR0cHMlM0ElMkYlMkZjaXR5YmFzZS11YXQucGktaGNtLmNvbSUyRg==" id="479">
-        <title>PIHcm</title>
-      </bookmark>
-      <bookmark href="http://hk-prd-sql2019/CORE/CityBase/HRIS.NET.UI/aspx/login.aspx" id="480">
-        <title>HRIS.NET - CrystalJade</title>
-      </bookmark>
-    </folder>
-    <folder id="314">
-      <title>IFC</title>
-      <bookmark href="https://ifc-uat.pi-hcm.com/ipl_middlewareservices/QuartzUI" id="481">
-        <title>ifc-uat.pi-hcm.com/ipl_middlewareservices/QuartzUI</title>
-      </bookmark>
-      <bookmark href="https://ifc-uat.pi-hcm.com/ipl_middlewareservices/swagger/index.html" id="482">
-        <title>Swagger UI</title>
-      </bookmark>
-      <bookmark href="http://hk-prd-sql2019/CORE/IFC/HRIS.NET.UI/aspx/login.aspx" id="483">
-        <title>HRIS.NET - IFC</title>
-      </bookmark>
-      <bookmark href="http://172.22.13.126:35672/#/queues/%2F/staff_queue" id="484">
-        <title>RabbitMQ Management</title>
-      </bookmark>
-    </folder>
-    <folder id="316">
-      <title>Test2</title>
-      <bookmark href="http://hk-prd-sql2019/CORE/HK-TEST2/HRIS.NET.UI/aspx/login.aspx" id="485">
-        <title>HRIS.NET - HK-TEST2</title>
-      </bookmark>
-      <bookmark href="https://hk-test2.pi-hcm.com/ipl_middlewareservices/QuartzUI" id="486">
-        <title>hk-test2.pi-hcm.com/ipl_middlewareservices/QuartzUI</title>
-      </bookmark>
-      <bookmark href="http://172.16.105.111:15672/#/queues/%2F/ihcm_hrm_ipl_staff_queue" id="487">
-        <title>RabbitMQ Management</title>
-      </bookmark>
-    </folder>
-    <folder id="318">
-      <title>ALF</title>
-      <bookmark href="https://alf-uat.pi-hcm.com/authorize/v1/login" id="488">
-        <title>Pihcm</title>
-      </bookmark>
-      <bookmark href="https://alf-uat.pi-hcm.com/ipl_payroll/swagger/index.html?urls.primaryName=IPLEmployee" id="489">
-        <title>Swagger UI</title>
-      </bookmark>
-    </folder>
-    <folder id="459">
-      <title>Tese1</title>
-      <bookmark href="https://ihcm-test1.where25.cn/" id="546">
-        <title>PIHcm</title>
       </bookmark>
     </folder>
   </folder>
