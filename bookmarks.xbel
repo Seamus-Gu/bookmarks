@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :585: for Floccus bookmark sync browser extension -->
+<!--- highestId :586: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1636,6 +1636,9 @@
   </bookmark>
   <bookmark href="https://www.zhihu.com/question/1975144793609879746" id="134">
     <title>(55 封私信 / 82 条消息) 为什么我们穿的都是塑料？ - 知乎</title>
+  </bookmark>
+  <bookmark href="https://www.zhihu.com/question/527146321" id="586">
+    <title>(14 封私信 / 14 条消息) 新电脑应该装一些什么软件？ - 知乎</title>
   </bookmark>
 </folder>
 <folder id="3">
