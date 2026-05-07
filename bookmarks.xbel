@@ -1352,33 +1352,6 @@
   <bookmark href="https://blog.csdn.net/qq_16268979/article/details/123707823" id="40">
     <title>(74条消息) Spring事务失效常见场景_spring事务失效场景_啊荻～的博客-CSDN博客</title>
   </bookmark>
-  <bookmark href="http://c.biancheng.net/view/4261.html" id="41">
-    <title>Spring Bean的生命周期</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/J080624/article/details/79856218" id="42">
-    <title>(74条消息) Spring中bean的初始化和销毁几种实现方式详解_bean实现销毁方法_程序员小默的博客-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/yuntianxia111/article/details/124972115" id="43">
-    <title>(74条消息) Spring- @Component和@ComponentScan注解用法介绍和注意事项_echoes2的博客-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/longzhutengyue/article/details/95179080" id="44">
-    <title>(74条消息) Spring中Bean的单例、多例_spring bean 单例_程序员瓜叔的博客-CSDN博客</title>
-  </bookmark>
-  <bookmark href="http://www.qb5200.com/article/493499.html" id="45">
-    <title>Spring Bean的单例和多例(IT技术)</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/isea533/article/details/118513868" id="46">
-    <title>(74条消息) Spring Cloud Alibaba 本地调试方案_springcloud调试_isea533的博客-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/weixin_33835103/article/details/92194731" id="47">
-    <title>(74条消息) 多个线程并发执行完成后再执行主线程-java（有点内容版）_weixin_33835103的博客-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://zhuanlan.zhihu.com/p/336516683" id="48">
-    <title>java多线程--主线程等待子线程执行完再执行 - 知乎</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/a745233700/article/details/82861490" id="49">
-    <title>(74条消息) Java基础篇：抽象类与接口_接口和抽象类_张维鹏的博客-CSDN博客</title>
-  </bookmark>
   <bookmark href="https://blog.csdn.net/a6470831/article/details/124677896?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167946912116800192230763%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=167946912116800192230763&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124677896-null-null.142^v76^insert_down38,201^v4^add_ask,239^v2^insert_chatgpt&amp;utm_term=seata&amp;spm=1018.2226.3001.4187" id="50">
     <title>(74条消息) 【微服务】（十六）—— 分布式事务Seata_seata data-source-proxy-mode_机智兵的博客-CSDN博客</title>
   </bookmark>
