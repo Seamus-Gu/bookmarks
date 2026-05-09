@@ -364,6 +364,60 @@
   </folder>
   <folder id="4">
     <title>Work Ago</title>
+    <folder id="139">
+      <title>Tools</title>
+      <bookmark href="https://docs.where25.cn/" id="287">
+        <title>第二套测试环境</title>
+      </bookmark>
+      <bookmark href="https://zentao.pihcm.cn/my.html" id="288">
+        <title>地盘 - 禅道</title>
+      </bookmark>
+      <bookmark href="http://10.10.18.168/" id="289">
+        <title>GitLab</title>
+      </bookmark>
+      <bookmark href="https://ctil.atlassian.net/jira/your-work" id="290">
+        <title>Jira</title>
+      </bookmark>
+      <bookmark href="http://172.16.110.125/seamus_gu" id="291">
+        <title>Seamus Gu · GitLab</title>
+      </bookmark>
+      <bookmark href="https://damonwong.notion.site/damonwong/IPL-HRMS-d8cb831b21c9427486b14c9943328396" id="292">
+        <title>IPL HRMS</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/file/0PQD90myzDIbJKsywDtw87/HRMS-MCD?node-id=1226%3A4343" id="293">
+        <title>Figma</title>
+      </bookmark>
+      <bookmark href="https://ipl-vm-hactl.ctil.com/redmine/" id="294">
+        <title>Redmine</title>
+      </bookmark>
+      <bookmark href="http://172.22.13.119:8500/ui/" id="295">
+        <title>Consul</title>
+      </bookmark>
+      <bookmark href="https://redmine.ctil.com/issues/7363" id="296">
+        <title>MCD Redmain</title>
+      </bookmark>
+      <bookmark href="https://ctil00046.sharepoint.com/sites/HRMS-Chevalier/_layouts/15/Doc.aspx?sourcedoc={4486fab4-1566-47dd-9c00-8290dab5f701}&amp;action=edit&amp;wd=target%28Documents.one%7C03542b4b-5ea1-423a-be78-65ccca7a5e1d%2F8452%20Pleave%20provide%20eLeave%20reports%20%28for%20example%2C%20Leave%20%7C8d9bfde8-9e2e-9d46-b490-509680cba345%2F%29&amp;wdorigin=NavigationUrl" id="297">
+        <title>Chevalier</title>
+      </bookmark>
+      <bookmark href="http://172.22.13.119:10010/redmine/" id="298">
+        <title>Redmine</title>
+      </bookmark>
+      <bookmark href="https://172.16.107.250:8443/!/#HRMS.NET1.7/view/head/branches" id="299">
+        <title>VisualSVN Server</title>
+      </bookmark>
+      <bookmark href="https://gitlab.where25.cn/users/sign_in" id="300">
+        <title>Sign in · GitLab</title>
+      </bookmark>
+      <bookmark href="http://ipl-vm-core19:90/STDHRMS20/HRIS.NET.UI/aspx/login.aspx" id="301">
+        <title>HRMS.NET - IPL Research Limited</title>
+      </bookmark>
+      <bookmark href="https://adss.ctil.com:9251/authorization.do#/organization-chart" id="302">
+        <title>ManageEngine - ADSelfService Plus</title>
+      </bookmark>
+      <bookmark href="https://hrm-git.ctil.com/groups/hrms/pihcm" id="303">
+        <title>PIHCM · GitLab</title>
+      </bookmark>
+    </folder>
     <folder id="136">
       <title>Great Eagle</title>
       <bookmark href="https://ipl-vm-hcm_app/GE/IPLHCM-Web/#/" id="278">
@@ -743,60 +797,6 @@
         <bookmark href="https://packages.aliyun.com/maven" id="413">
           <title>Maven仓库</title>
         </bookmark>
-        <folder id="139">
-          <title>Tools</title>
-          <bookmark href="https://docs.where25.cn/" id="287">
-            <title>第二套测试环境</title>
-          </bookmark>
-          <bookmark href="https://zentao.pihcm.cn/my.html" id="288">
-            <title>地盘 - 禅道</title>
-          </bookmark>
-          <bookmark href="http://10.10.18.168/" id="289">
-            <title>GitLab</title>
-          </bookmark>
-          <bookmark href="https://ctil.atlassian.net/jira/your-work" id="290">
-            <title>Jira</title>
-          </bookmark>
-          <bookmark href="http://172.16.110.125/seamus_gu" id="291">
-            <title>Seamus Gu · GitLab</title>
-          </bookmark>
-          <bookmark href="https://damonwong.notion.site/damonwong/IPL-HRMS-d8cb831b21c9427486b14c9943328396" id="292">
-            <title>IPL HRMS</title>
-          </bookmark>
-          <bookmark href="https://www.figma.com/file/0PQD90myzDIbJKsywDtw87/HRMS-MCD?node-id=1226%3A4343" id="293">
-            <title>Figma</title>
-          </bookmark>
-          <bookmark href="https://ipl-vm-hactl.ctil.com/redmine/" id="294">
-            <title>Redmine</title>
-          </bookmark>
-          <bookmark href="http://172.22.13.119:8500/ui/" id="295">
-            <title>Consul</title>
-          </bookmark>
-          <bookmark href="https://redmine.ctil.com/issues/7363" id="296">
-            <title>MCD Redmain</title>
-          </bookmark>
-          <bookmark href="https://ctil00046.sharepoint.com/sites/HRMS-Chevalier/_layouts/15/Doc.aspx?sourcedoc={4486fab4-1566-47dd-9c00-8290dab5f701}&amp;action=edit&amp;wd=target%28Documents.one%7C03542b4b-5ea1-423a-be78-65ccca7a5e1d%2F8452%20Pleave%20provide%20eLeave%20reports%20%28for%20example%2C%20Leave%20%7C8d9bfde8-9e2e-9d46-b490-509680cba345%2F%29&amp;wdorigin=NavigationUrl" id="297">
-            <title>Chevalier</title>
-          </bookmark>
-          <bookmark href="http://172.22.13.119:10010/redmine/" id="298">
-            <title>Redmine</title>
-          </bookmark>
-          <bookmark href="https://172.16.107.250:8443/!/#HRMS.NET1.7/view/head/branches" id="299">
-            <title>VisualSVN Server</title>
-          </bookmark>
-          <bookmark href="https://gitlab.where25.cn/users/sign_in" id="300">
-            <title>Sign in · GitLab</title>
-          </bookmark>
-          <bookmark href="http://ipl-vm-core19:90/STDHRMS20/HRIS.NET.UI/aspx/login.aspx" id="301">
-            <title>HRMS.NET - IPL Research Limited</title>
-          </bookmark>
-          <bookmark href="https://adss.ctil.com:9251/authorization.do#/organization-chart" id="302">
-            <title>ManageEngine - ADSelfService Plus</title>
-          </bookmark>
-          <bookmark href="https://hrm-git.ctil.com/groups/hrms/pihcm" id="303">
-            <title>PIHCM · GitLab</title>
-          </bookmark>
-        </folder>
       </folder>
       <folder id="8">
         <title>Entertainment Ago</title>
